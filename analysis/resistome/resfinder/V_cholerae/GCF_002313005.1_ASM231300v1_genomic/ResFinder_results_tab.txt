@@ -1,0 +1,16 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+aac(3)-IId	99.88	861/861	100.0	1..861	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	5470..6330	Apramycin, Gentamicin, Tobramycin, Dibekacin, Netilmicin, Sisomicin	EU022314
+aph(6)-Id	100.00	837/837	100.0	1..837	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	31694..32530	Streptomycin	M28829
+aph(3')-Ia	100.00	816/816	100.0	1..816	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	934..1749	Kanamycin, Unknown Aminoglycoside, Neomycin, Kanamycin, Lividomycin, Paromomycin, Ribostamycin, Kanamycin, Neomycin	X62115
+aph(3'')-Ib	100.00	804/804	100.0	1..804	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	32530..33333	Streptomycin	AF321551
+aadA2	100.00	792/792	100.0	1..792	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	23405..24196	Spectinomycin, Streptomycin	JQ364967
+blaTEM-1A	100.00	861/861	100.0	1..861	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	132930..133790	Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin	HM749966
+msr(E)	100.00	1476/1476	100.0	1..1476	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	17504..18979	Erythromycin, Azithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	FR751518
+mph(E)	100.00	885/885	100.0	1..885	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	19035..19919	Erythromycin	DQ839391
+catB9	100.00	630/630	100.0	1..630	NZ_CP012666.1 Vibrio cholerae strain ICDC-VC661 chromosome 1, complete sequence	313910..314539	Chloramphenicol	AF462019
+FloR	99.92	1215/1215	100.0	1..1215	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	40701..41915	Chloramphenicol,Florfenicol	CP136914
+catA2	96.11	642/642	100.0	1..642	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	9963..10604	Chloramphenicol	X53796
+sul1	100.00	840/840	100.0	1..840	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	24701..25540	Sulfamethoxazole	U12338
+sul2	100.00	816/816	100.0	1..816	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	44418..45233	Sulfamethoxazole	AY034138
+sul2	100.00	816/816	100.0	1..816	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	33394..34209	Sulfamethoxazole	AY034138
+tet(D)	100.00	1185/1185	100.0	1..1185	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	12216..13400	Doxycycline, Tetracycline	AF467077

@@ -1,0 +1,3 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+blaCARB-38	99.53	852/852	100.0	1..852	NZ_CP012951.1 Vibrio parahaemolyticus strain FORC_023 isolate 378 chromosome 2, complete sequence	1285119..1285970	Ampicillin, Amoxicillin, Piperacillin	BK008898
+blaCARB-22	99.53	852/852	100.0	1..852	NZ_CP012951.1 Vibrio parahaemolyticus strain FORC_023 isolate 378 chromosome 2, complete sequence	1285119..1285970	Ampicillin, Amoxicillin, Piperacillin	JYNG01000059

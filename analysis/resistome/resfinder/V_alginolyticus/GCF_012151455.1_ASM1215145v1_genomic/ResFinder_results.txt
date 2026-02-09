@@ -1,0 +1,72 @@
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                               Beta-lactam                                                                                                                                |
++-------------------+------------+--------------------------------+------------+-------------------------+--------------------------------------------------------------------------------+----------------------+---------------------------------------+-----------------+
+| Resistance gene   |   Identity | Alignment Length/Gene Length   |   Coverage | Position in reference   | Contig                                                                         | Position in contig   | Phenotype                             | Accession no.   |
+|-------------------+------------+--------------------------------+------------+-------------------------+--------------------------------------------------------------------------------+----------------------+---------------------------------------+-----------------|
+| blaCARB-42        |    90.3756 | 852/852                        |        100 | 1..852                  | NZ_AP022864.1 Vibrio alginolyticus strain YM19 chromosome 2, complete sequence | 1314276..1315127     | Ampicillin, Amoxicillin, Piperacillin | NG_048745       |
++-------------------+------------+--------------------------------+------------+-------------------------+--------------------------------------------------------------------------------+----------------------+---------------------------------------+-----------------+
+
+##################### beta-lactam #####################
+blaCARB-42, ID: 90.38 %, Alignment Length/Gene Length: 852/852, Coverage: 100.0, Positions in reference: 1..852, Contig name: NZ_AP022864.1 Vibrio alginolyticus strain YM19 chromosome 2, complete sequence, Position: 1314276..1315127
+
+ATGAAAAAGTTATTTTTGTTGGCTGGGCTAATGGTTTGCTCAACCCTAAGTTACGCGTCC
+|||||||||||||||||||||||||| ||||||||||||||||||||||||||||| |||
+ATGAAAAAGTTATTTTTGTTGGCTGGACTAATGGTTTGCTCAACCCTAAGTTACGCTTCC
+
+CAACTGAATGAGGACATTTCTCTCCTCGAGCAACAAACCTCAAGCAGAATTGGGGTGTCA
+||||||||||| |||||||||||| |||| ||||||||||||||||||||||| || || 
+CAACTGAATGAAGACATTTCTCTCATCGAACAACAAACCTCAAGCAGAATTGGAGTCTCG
+
+GTTTGGGATACCCAAGCAGACGAGCGTTGGGATTACCGTGGCGATGAACGCTTCCCACTC
+||||||||||| ||| | || ||||| |||||||||||||||||||||||||||||||||
+GTTTGGGATACGCAAACCGATGAGCGCTGGGATTACCGTGGCGATGAACGCTTCCCACTC
+
+ATGAGCACATTCAAAACCCTAGCTTGTGCCAAAATGTTAAGTGATATGGACAGCGGTAAG
+|||||||||||||||||| | ||||| |||| |||| |||||||||||||||||||||||
+ATGAGCACATTCAAAACCTTGGCTTGCGCCACAATGCTAAGTGATATGGACAGCGGTAAG
+
+CTAAGTAAAAATGCGACCGCAAAAGTCGATGAGCGCAGTATCGTTGTATGGTCTCCAGTG
+|||||||||||||||||||| ||||||||||||||||| |||||||| ||||||||||||
+CTAAGTAAAAATGCGACCGCGAAAGTCGATGAGCGCAGCATCGTTGTGTGGTCTCCAGTG
+
+ATGGATAAGCTCGCAGGCCAAAACACACGCATAGAGCACGCGTGTGAAGCCGCTATGTTA
+||||| || ||||||||||||||||||||| |||| ||||| |||||||| || ||||| 
+ATGGACAAACTCGCAGGCCAAAACACACGCGTAGAACACGCTTGTGAAGCTGCGATGTTG
+
+ATGAGTGATAATACCGCAGCCAACTTAGTATTAAATGAAATTGGCGGCCCTAAGGCCGTA
+|||||||||||||| || |||||||||||||| |||||||| ||||||||||||||||| 
+ATGAGTGATAATACTGCTGCCAACTTAGTATTGAATGAAATCGGCGGCCCTAAGGCCGTG
+
+ACAATGTTTCTGCGAACAATTGGAGATAAAGCAACGCGCCTAGACAGAATAGAACCTCGC
+||||||||||||||||| ||||| |||||||| ||||||||||| ||| ||||||| || 
+ACAATGTTTCTGCGAACTATTGGTGATAAAGCGACGCGCCTAGATAGATTAGAACCACGT
+
+TTGAACGAAGCCACACCAGGCGACAGCCGCGACACAACTACACCTAACGCCATACTAAAC
+||||||||||| ||||| || |||| |||||||||||| ||||||||||||||  |||||
+TTGAACGAAGCGACACCGGGAGACAACCGCGACACAACCACACCTAACGCCATGGTAAAC
+
+ACTCTTCGAACTTTGGTCGAAGGCGAAACGTTGTCTTATGAGTCTCGTGTACAATTAAAA
+||||| ||||| ||| | ||||| |||||||||||||| |||||||| || |||||||||
+ACTCTGCGAACCTTGATTGAAGGAGAAACGTTGTCTTACGAGTCTCGCGTGCAATTAAAA
+
+ATCTGGATGCAGGACAACAAAGTTTCAGACTCGTTAATGCGTTCTGTATTACCAACAGGT
+|||||||||||||||||||| ||||||||||||||||||||||| |||||||||||||||
+ATCTGGATGCAGGACAACAAGGTTTCAGACTCGTTAATGCGTTCAGTATTACCAACAGGT
+
+TGGTCTATTGCAGACCGTTCTGGTGCGGGAGGTCATGGTTCGCGTGGCATTAACGCGATT
+|||||||| || ||||| ||||||||||| ||||| ||||||||||| |||||||| || 
+TGGTCTATCGCCGACCGCTCTGGTGCGGGTGGTCACGGTTCGCGTGGTATTAACGCAATC
+
+ATATGGAAGGAAAATCATCGACCTGTTTACATTAGTATTTATGTCACAGAAACCGAGCTC
+|||||||||||||| ||||| ||||||||||||||||| |||||||||||||||||||| 
+ATATGGAAGGAAAACCATCGTCCTGTTTACATTAGTATCTATGTCACAGAAACCGAGCTA
+
+TCACTTCAAGCTAGGGACCAACTCGTTGCGCAGATAAGTCAGTTGATTTTACAAAAGTAC
+||||| ||||| || ||||| ||| | | ||| || ||||||||||||||||| || |||
+TCACTGCAAGCCAGAGACCAGCTCATCGTGCAAATCAGTCAGTTGATTTTACAGAAATAC
+
+AAAGACAATTAA
+||||| ||||||
+AAAGATAATTAA
+
+

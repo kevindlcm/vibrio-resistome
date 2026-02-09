@@ -1,0 +1,2 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+blaCARB-42	99.65	852/852	100.0	1..852	NZ_CP042450.1 Vibrio alginolyticus strain FA2 chromosome 2, complete sequence	839935..840786	Ampicillin, Amoxicillin, Piperacillin	NG_048745

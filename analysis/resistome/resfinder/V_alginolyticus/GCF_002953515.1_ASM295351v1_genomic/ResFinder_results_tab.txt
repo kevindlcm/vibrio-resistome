@@ -1,0 +1,4 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+blaCARB-42	99.65	852/852	100.0	1..852	NZ_CP014054.1 Vibrio alginolyticus strain FDAARGOS_108 chromosome 2, complete sequence	1510758..1511609	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+qnrS5	97.10	656/657	99.84779299847793	1..656	NZ_CP014053.1 Vibrio alginolyticus strain FDAARGOS_108 chromosome 1, complete sequence	1701514..1702169	Ciprofloxacin	HQ631377
+qnrS5	97.10	656/657	99.84779299847793	1..656	NZ_CP014053.1 Vibrio alginolyticus strain FDAARGOS_108 chromosome 1, complete sequence	1668007..1668662	Ciprofloxacin	HQ631377

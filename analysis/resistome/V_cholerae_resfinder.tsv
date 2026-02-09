@@ -1,0 +1,56 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+aph(6)-Id	100.00	837/837	100.0	1..837	NZ_CP007634.1 Vibrio cholerae strain 2012EL-2176 chromosome 1, complete sequence	111494..112330	Streptomycin	M28829
+aph(6)-Id	100.00	837/837	100.0	1..837	NZ_CP007634.1 Vibrio cholerae strain 2012EL-2176 chromosome 1, complete sequence	100317..101153	Streptomycin	M28829
+aph(3'')-Ib	99.88	804/804	100.0	1..804	NZ_CP007634.1 Vibrio cholerae strain 2012EL-2176 chromosome 1, complete sequence	112330..113133	Streptomycin	AF321551
+aph(3'')-Ib	99.88	804/804	100.0	1..804	NZ_CP007634.1 Vibrio cholerae strain 2012EL-2176 chromosome 1, complete sequence	101153..101956	Streptomycin	AF321551
+aph(6)-Id	100.00	837/837	100.0	1..837	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	48771..49607	Streptomycin	M28829
+aph(3'')-Ib	100.00	804/804	100.0	1..804	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	49607..50410	Streptomycin	AF321551
+aadA16	99.63	806/846	95.27186761229315	1..806	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	134621..135426	Spectinomycin, Streptomycin	EU675686
+aac(3)-IIa	100.00	802/861	93.14750290360047	1..802	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	38427..39228	Apramycin, Gentamicin, Tobramycin, Dibekacin, Netilmicin, Sisomicin, Gentamicin, Tobramycin	X51534
+blaCMY-2	100.00	1146/1146	100.0	1..1146	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	79627..80772	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefotaxime, Cefoxitin, Ceftazidime, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid	X91840
+blaCTX-M-2	100.00	876/876	100.0	1..876	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	141155..142030	Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin	AB176535
+blaTEM-1D	100.00	861/861	100.0	1..861	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	37385..38245	Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin	AF188200
+mph(A)	100.00	906/906	100.0	1..906	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	150932..151837	Erythromycin, Azithromycin, Spiramycin, Telithromycin	D16251
+FloR	100.00	1215/1215	100.0	1..1215	NZ_CP007634.1 Vibrio cholerae strain 2012EL-2176 chromosome 1, complete sequence	98147..99361	Chloramphenicol,Florfenicol	CP136914
+FloR	100.00	1215/1215	100.0	1..1215	NZ_CP007634.1 Vibrio cholerae strain 2012EL-2176 chromosome 1, complete sequence	109324..110538	Chloramphenicol,Florfenicol	CP136914
+catB9	100.00	630/630	100.0	1..630	NZ_CP007635.1 Vibrio cholerae strain 2012EL-2176 chromosome 2, complete sequence	40302..40931	Chloramphenicol	AF462019
+FloR	100.00	1215/1215	100.0	1..1215	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	44422..45636	Chloramphenicol,Florfenicol	CP136914
+ARR-3	100.00	453/453	100.0	1..453	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	133382..133834	Rifampicin	JF806499
+sul2	100.00	816/816	100.0	1..816	NZ_CP007634.1 Vibrio cholerae strain 2012EL-2176 chromosome 1, complete sequence	113194..114009	Sulfamethoxazole	AY034138
+sul2	100.00	816/816	100.0	1..816	NZ_CP007634.1 Vibrio cholerae strain 2012EL-2176 chromosome 1, complete sequence	102017..102832	Sulfamethoxazole	AY034138
+sul1	100.00	840/840	100.0	1..840	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	137871..138710	Sulfamethoxazole	U12338
+sul1	100.00	840/840	100.0	1..840	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	143455..144294	Sulfamethoxazole	U12338
+sul2	100.00	816/816	100.0	1..816	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	50471..51286	Sulfamethoxazole	AY034138
+tet(A)	100.00	1275/1275	100.0	1..1275	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	46236..47510	Doxycycline, Tetracycline	AF534183
+dfrA1	100.00	474/474	100.0	1..474	NZ_CP007634.1 Vibrio cholerae strain 2012EL-2176 chromosome 1, complete sequence	163681..164154	Trimethoprim	X00926
+dfrA27	100.00	474/474	100.0	1..474	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	133967..134440	Trimethoprim	FJ459817
+catB9	100.00	630/630	100.0	1..630	NZ_CP012997.1 Vibrio cholerae strain 2012Env-9 chromosome 1, complete sequence	913342..913971	Chloramphenicol	AF462019
+catB9	100.00	630/630	100.0	1..630	NZ_LT907990.1 Vibrio cholerae strain A19 chromosome 2	315307..315936	Chloramphenicol	AF462019
+catB9	100.00	630/630	100.0	1..630	NZ_CP013013.1 Vibrio cholerae strain Env-390 chromosome 1, complete sequence	914539..915168	Chloramphenicol	AF462019
+catB9	100.00	630/630	100.0	1..630	NZ_CP013302.1 Vibrio cholerae strain C5 chromosome 2, complete sequence	313959..314588	Chloramphenicol	AF462019
+catB9	99.68	630/630	100.0	1..630	NZ_CP013312.1 Vibrio cholerae strain E1320 chromosome 2, complete sequence	695612..696241	Chloramphenicol	AF462019
+catB9	100.00	630/630	100.0	1..630	NZ_CP013304.1 Vibrio cholerae strain CRC711 chromosome 2, complete sequence	314001..314630	Chloramphenicol	AF462019
+catB9	100.00	630/630	100.0	1..630	NZ_CP013306.1 Vibrio cholerae strain CRC1106 chromosome 2, complete sequence	314006..314635	Chloramphenicol	AF462019
+catB9	100.00	630/630	100.0	1..630	NZ_CP013310.1 Vibrio cholerae strain E1162 chromosome 2, complete sequence	444799..445428	Chloramphenicol	AF462019
+catB9	100.00	630/630	100.0	1..630	NZ_CP013314.1 Vibrio cholerae strain E9120 chromosome 2, complete sequence	313965..314594	Chloramphenicol	AF462019
+catB9	100.00	630/630	100.0	1..630	NZ_CP020407.2 Vibrio cholerae strain FDAARGOS_223 chromosome 2, complete sequence	868913..869542	Chloramphenicol	AF462019
+aac(3)-IId	99.88	861/861	100.0	1..861	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	5470..6330	Apramycin, Gentamicin, Tobramycin, Dibekacin, Netilmicin, Sisomicin	EU022314
+aph(6)-Id	100.00	837/837	100.0	1..837	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	31694..32530	Streptomycin	M28829
+aph(3')-Ia	100.00	816/816	100.0	1..816	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	934..1749	Kanamycin, Unknown Aminoglycoside, Neomycin, Kanamycin, Lividomycin, Paromomycin, Ribostamycin, Kanamycin, Neomycin	X62115
+aph(3'')-Ib	100.00	804/804	100.0	1..804	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	32530..33333	Streptomycin	AF321551
+aadA2	100.00	792/792	100.0	1..792	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	23405..24196	Spectinomycin, Streptomycin	JQ364967
+blaTEM-1A	100.00	861/861	100.0	1..861	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	132930..133790	Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin	HM749966
+msr(E)	100.00	1476/1476	100.0	1..1476	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	17504..18979	Erythromycin, Azithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	FR751518
+mph(E)	100.00	885/885	100.0	1..885	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	19035..19919	Erythromycin	DQ839391
+catB9	100.00	630/630	100.0	1..630	NZ_CP012666.1 Vibrio cholerae strain ICDC-VC661 chromosome 1, complete sequence	313910..314539	Chloramphenicol	AF462019
+FloR	99.92	1215/1215	100.0	1..1215	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	40701..41915	Chloramphenicol,Florfenicol	CP136914
+catA2	96.11	642/642	100.0	1..642	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	9963..10604	Chloramphenicol	X53796
+sul1	100.00	840/840	100.0	1..840	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	24701..25540	Sulfamethoxazole	U12338
+sul2	100.00	816/816	100.0	1..816	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	44418..45233	Sulfamethoxazole	AY034138
+sul2	100.00	816/816	100.0	1..816	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	33394..34209	Sulfamethoxazole	AY034138
+tet(D)	100.00	1185/1185	100.0	1..1185	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	12216..13400	Doxycycline, Tetracycline	AF467077
+catB9	100.00	630/630	100.0	1..630	NZ_CP024163.1 Vibrio cholerae strain E7946 chromosome 2, complete sequence	313491..314120	Chloramphenicol	AF462019
+catB9	100.00	630/630	100.0	1..630	NZ_CP025937.1 Vibrio cholerae strain A1552 chromosome 2, complete sequence	313332..313961	Chloramphenicol	AF462019
+catB9	100.00	630/630	100.0	1..630	NZ_CP024868.1 Vibrio cholerae strain A1552 chromosome II, complete sequence	313982..314611	Chloramphenicol	AF462019
+catB9	100.00	630/630	100.0	1..630	NZ_CP028828.1 Vibrio cholerae strain N16961 chromosome 2, complete sequence	317618..318247	Chloramphenicol	AF462019
+catB9	100.00	630/630	100.0	1..630	NZ_CP043556.1 Vibrio cholerae strain RFB16 chromosome 2, complete sequence	955487..956116	Chloramphenicol	AF462019

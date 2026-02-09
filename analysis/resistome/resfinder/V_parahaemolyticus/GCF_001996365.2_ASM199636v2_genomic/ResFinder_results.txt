@@ -1,0 +1,168 @@
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                 Beta-lactam                                                                                                                                 |
++-------------------+------------+--------------------------------+------------+-------------------------+-----------------------------------------------------------------------------------+----------------------+---------------------------------------+-----------------+
+| Resistance gene   |   Identity | Alignment Length/Gene Length   |   Coverage | Position in reference   | Contig                                                                            | Position in contig   | Phenotype                             | Accession no.   |
+|-------------------+------------+--------------------------------+------------+-------------------------+-----------------------------------------------------------------------------------+----------------------+---------------------------------------+-----------------|
+| blaCARB-26        |    99.2958 | 852/852                        |        100 | 1..852                  | NZ_CP043422.1 Vibrio parahaemolyticus strain MVP1 chromosome 2, complete sequence | 299527..300378       | Ampicillin, Amoxicillin, Piperacillin | BK008904        |
++-------------------+------------+--------------------------------+------------+-------------------------+-----------------------------------------------------------------------------------+----------------------+---------------------------------------+-----------------+
+
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                 Tetracycline                                                                                                                                 |
++-------------------+------------+--------------------------------+------------+-------------------------+-----------------------------------------------------------------------------------+----------------------+----------------------------------------+-----------------+
+| Resistance gene   |   Identity | Alignment Length/Gene Length   |   Coverage | Position in reference   | Contig                                                                            | Position in contig   | Phenotype                              | Accession no.   |
+|-------------------+------------+--------------------------------+------------+-------------------------+-----------------------------------------------------------------------------------+----------------------+----------------------------------------+-----------------|
+| tet(B)            |    99.9171 | 1206/1206                      |        100 | 1..1206                 | NZ_CP043421.1 Vibrio parahaemolyticus strain MVP1 chromosome 1, complete sequence | 832981..834186       | Doxycycline, Tetracycline, Minocycline | AP000342        |
++-------------------+------------+--------------------------------+------------+-------------------------+-----------------------------------------------------------------------------------+----------------------+----------------------------------------+-----------------+
+
+##################### beta-lactam #####################
+blaCARB-26, ID: 99.30 %, Alignment Length/Gene Length: 852/852, Coverage: 100.0, Positions in reference: 1..852, Contig name: NZ_CP043422.1 Vibrio parahaemolyticus strain MVP1 chromosome 2, complete sequence, Position: 299527..300378
+
+ATGAAAAAGTTATTCCTGTTGGTTGGGCTGATGGTTTGCTCAACTGTTAGTTACGCCTCC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ATGAAAAAGTTATTCCTGTTGGTTGGGCTGATGGTTTGCTCAACTGTTAGTTACGCCTCC
+
+AAATTAAACGAAGACATCTCCCTCATCGAGAAACAAACATCTGGGCGAATTGGAGTGTCA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+AAATTAAACGAAGACATCTCCCTCATCGAGAAACAAACATCTGGGCGAATTGGAGTGTCA
+
+GTCTGGGATACACAAACGGACGAGCGTTGGGATTATCGCGGAGACGAACGTTTCCCATTA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GTCTGGGATACACAAACGGACGAGCGTTGGGATTATCGCGGAGACGAACGTTTCCCATTA
+
+ATGAGCACATTCAAAACGTTAGCGTGTGCCACCATGCTAAGCGACATGGATAGCGGCAAA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ATGAGCACATTCAAAACGTTAGCGTGTGCCACCATGCTAAGCGACATGGATAGCGGCAAA
+
+CTCAACAAAAATGCCACAGCGAAAATCGATGAACGCAATATTGTGGTTTGGTCTCCGGTG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CTCAACAAAAATGCCACAGCGAAAATCGATGAACGCAATATTGTGGTTTGGTCTCCGGTG
+
+ATGGATAAACTGGCTGGACAAAGCACACGCATCGAACACGCTTGTGAAGCCGCCATGTTG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ATGGATAAACTGGCTGGACAAAGCACACGCATCGAACACGCTTGTGAAGCCGCCATGTTG
+
+AGGAGCGACAACACCGCCGCGAACTTAGTGCTAAATGAAATTGGTGGTCCTAAAGCGGTC
+| ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ATGAGCGACAACACCGCCGCGAACTTAGTGCTAAATGAAATTGGTGGTCCTAAAGCGGTC
+
+ACGTTGTTTTTGCGATCTATTGGCGACAAAGCAACGCGACTTGACCGATTGGAACCCCGT
+|||||||||||||| |||||||||||||||||||||||||||||||||||||||||||||
+ACGTTGTTTTTGCGCTCTATTGGCGACAAAGCAACGCGACTTGACCGATTGGAACCCCGT
+
+TTGAATGAAGCAAAACCGGGCGACAAGCGAGACACCACAACGCCTAACGCCATGGTAAAC
+||||||||||| ||||||||||||||||||||||||||||||||||||||||||||||||
+TTGAATGAAGCGAAACCGGGCGACAAGCGAGACACCACAACGCCTAACGCCATGGTAAAC
+
+ACCCTACATACCTTGATGGAAGATAACGCCCTATCTTACGAGTCACGCACACAGCTGAAA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ACCCTACATACCTTGATGGAAGATAACGCCCTATCTTACGAGTCACGCACACAGCTGAAA
+
+ATCTGGATGCAAGACAACAAAGTATCGGATTCGCTCATGCGCTCTGTTCTGCCAAAAGGT
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||| 
+ATCTGGATGCAAGACAACAAAGTATCGGATTCGCTCATGCGCTCTGTTCTGCCAAAAGGC
+
+TGGTCGATTGCAGACCGCTCTGGCGCAGGTAACTACGGTTCACGCGGCATTAGCGCGATG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+TGGTCGATTGCAGACCGCTCTGGCGCAGGTAACTACGGTTCACGCGGCATTAGCGCGATG
+
+ATTTGGAAAGACAACTACAAGCCGGTTTACATCAGTATTTACGTCACAGACACCGACCTT
+||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||
+ATTTGGAAAGACAACTACAAGCCGGTTTACATCAGTATTTACGTCACAGACACTGACCTT
+
+TCGCTTCAAGCTCGCGATCAACTGATCGCGCAAATCAGCCAACTGATTTTAGAGCACTAC
+|| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+TCTCTTCAAGCTCGCGATCAACTGATCGCGCAAATCAGCCAACTGATTTTAGAGCACTAC
+
+AAAGAAAGTTAA
+||||||||||||
+AAAGAAAGTTAA
+
+
+##################### tetracycline #####################
+tet(B), ID: 99.92 %, Alignment Length/Gene Length: 1206/1206, Coverage: 100.0, Positions in reference: 1..1206, Contig name: NZ_CP043421.1 Vibrio parahaemolyticus strain MVP1 chromosome 1, complete sequence, Position: 832981..834186
+
+ATGAATAGTTCGACAAAGATCGCATTGGTAATTACGTTACTCGATGCCATGGGGATTGGC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ATGAATAGTTCGACAAAGATCGCATTGGTAATTACGTTACTCGATGCCATGGGGATTGGC
+
+CTTATCATGCCAGTCTTGCCAACGTTATTACGTGAATTTATTGCTTCGGAAGATATCGCT
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CTTATCATGCCAGTCTTGCCAACGTTATTACGTGAATTTATTGCTTCGGAAGATATCGCT
+
+AACCACTTTGGCGTATTGCTTGCACTTTATGCGTTAATGCAGGTTATCTTTGCTCCTTGG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+AACCACTTTGGCGTATTGCTTGCACTTTATGCGTTAATGCAGGTTATCTTTGCTCCTTGG
+
+CTTGGAAAAATGTCTGACCGATTTGGTCGGCGCCCAGTGCTGTTGTTGTCATTAATAGGC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CTTGGAAAAATGTCTGACCGATTTGGTCGGCGCCCAGTGCTGTTGTTGTCATTAATAGGC
+
+GCATCGCTGGATTACTTATTGCTGGCTTTTTCAAGTGCGCTTTGGATGCTGTATTTAGGC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GCATCGCTGGATTACTTATTGCTGGCTTTTTCAAGTGCGCTTTGGATGCTGTATTTAGGC
+
+CGTTTGCTTTCAGGGATCACAGGAGCTACTGGGGCTGTCGCGGCATCGGTCATTGCCGAT
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CGTTTGCTTTCAGGGATCACAGGAGCTACTGGGGCTGTCGCGGCATCGGTCATTGCCGAT
+
+ACCACCTCAGCTTCTCAACGCGTGAAGTGGTTCGGTTGGTTAGGGGCAAGTTTTGGGCTT
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ACCACCTCAGCTTCTCAACGCGTGAAGTGGTTCGGTTGGTTAGGGGCAAGTTTTGGGCTT
+
+GGTTTAATAGCGGGGCCTATTATTGGTGGTTTTGCAGGAGAGATTTCACCGCATAGTCCC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GGTTTAATAGCGGGGCCTATTATTGGTGGTTTTGCAGGAGAGATTTCACCGCATAGTCCC
+
+TTTTTTATCGCTGCGTTGCTAAATATTGTCACTTTCCTTGTGGTTATGTTTTGGTTCCGT
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+TTTTTTATCGCTGCGTTGCTAAATATTGTCACTTTCCTTGTGGTTATGTTTTGGTTCCGT
+
+GAAACCAAAAATACACGTGATAATACAGATACCGAAGTAGGGGTTGAGACGCAATCGAAT
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GAAACCAAAAATACACGTGATAATACAGATACCGAAGTAGGGGTTGAGACGCAATCGAAT
+
+TCGGTATACATCACTTTATTTAAAACGATGCCCATTTTGTTGATTATTTATTTTTCAGCG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+TCGGTATACATCACTTTATTTAAAACGATGCCCATTTTGTTGATTATTTATTTTTCAGCG
+
+CAATTGATAGGCCAAATTCCCGCAACGGTGTGGGTGCTATTTACCGAAAATCGTTTTGGA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CAATTGATAGGCCAAATTCCCGCAACGGTGTGGGTGCTATTTACCGAAAATCGTTTTGGA
+
+TGGAATAGCATGATGGTTGGCTTTTCATTAGCGGGTCTTGGTCTTTTACACTCAGTATTC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+TGGAATAGCATGATGGTTGGCTTTTCATTAGCGGGTCTTGGTCTTTTACACTCAGTATTC
+
+CAAGCCTTTGTGGCAGGAAGAATAGCCACTAAATGGGGCGAAAAAACGGCAGTACTGCTC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CAAGCCTTTGTGGCAGGAAGAATAGCCACTAAATGGGGCGAAAAAACGGCAGTACTGCTC
+
+GGATTTATTGCAGATAGTAGTGCATTTGCCTTTTTAGCGTTTATATCTGAAGGTTGGTTA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GGATTTATTGCAGATAGTAGTGCATTTGCCTTTTTAGCGTTTATATCTGAAGGTTGGTTA
+
+GTTTTCCCTGTTTTAATTTTATTGGCTGGTGGTGGGATCGCTTTACCTGCATTACAGGGA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GTTTTCCCTGTTTTAATTTTATTGGCTGGTGGTGGGATCGCTTTACCTGCATTACAGGGA
+
+GTGATGTCTATCCAAACAAAGAGTCATCAGCAAGGTGCTTTACAGGGATTATTGGTGAGC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GTGATGTCTATCCAAACAAAGAGTCATCAGCAAGGTGCTTTACAGGGATTATTGGTGAGC
+
+CTTACCAATGCAACCGGTGTTATTGGCCCATTACTGTTTGCTGTTATTTATAATCATTCA
+|||| |||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CTTAACAATGCAACCGGTGTTATTGGCCCATTACTGTTTGCTGTTATTTATAATCATTCA
+
+CTACCAATTTGGGATGGCTGGATTTGGATTATTGGTTTAGCGTTTTACTGTATTATTATC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CTACCAATTTGGGATGGCTGGATTTGGATTATTGGTTTAGCGTTTTACTGTATTATTATC
+
+CTGCTATCGATGACCTTCATGTTAACCCCTCAAGCTCAGGGGAGTAAACAGGAGACAAGT
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CTGCTATCGATGACCTTCATGTTAACCCCTCAAGCTCAGGGGAGTAAACAGGAGACAAGT
+
+GCTTAG
+||||||
+GCTTAG
+
+

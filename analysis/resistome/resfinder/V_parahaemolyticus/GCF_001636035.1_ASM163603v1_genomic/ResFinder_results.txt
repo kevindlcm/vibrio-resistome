@@ -1,0 +1,72 @@
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                   Beta-lactam                                                                                                                                   |
++-------------------+------------+--------------------------------+------------+-------------------------+---------------------------------------------------------------------------------------+----------------------+---------------------------------------+-----------------+
+| Resistance gene   |   Identity | Alignment Length/Gene Length   |   Coverage | Position in reference   | Contig                                                                                | Position in contig   | Phenotype                             | Accession no.   |
+|-------------------+------------+--------------------------------+------------+-------------------------+---------------------------------------------------------------------------------------+----------------------+---------------------------------------+-----------------|
+| blaCARB-33        |     99.061 | 852/852                        |        100 | 1..852                  | NZ_CP011407.1 Vibrio parahaemolyticus strain FORC_014 chromosome 2, complete sequence | 1479390..1480241     | Ampicillin, Amoxicillin, Piperacillin | BK008903        |
++-------------------+------------+--------------------------------+------------+-------------------------+---------------------------------------------------------------------------------------+----------------------+---------------------------------------+-----------------+
+
+##################### beta-lactam #####################
+blaCARB-33, ID: 99.06 %, Alignment Length/Gene Length: 852/852, Coverage: 100.0, Positions in reference: 1..852, Contig name: NZ_CP011407.1 Vibrio parahaemolyticus strain FORC_014 chromosome 2, complete sequence, Position: 1479390..1480241
+
+ATGAAAAAGTTATTCCTGTTGGTTGGGCTGATGGTTTGCTCAACTGTTAGTTACGCCTCC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ATGAAAAAGTTATTCCTGTTGGTTGGGCTGATGGTTTGCTCAACTGTTAGTTACGCCTCC
+
+AAATTAAACGAAGACATCTCCCTCATCGAGAAACAAACATCTGGGCGAATTGGAGTGTCA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+AAATTAAACGAAGACATCTCCCTCATCGAGAAACAAACATCTGGGCGAATTGGAGTGTCA
+
+GTCTGGGATACACAAACGGACGAGCGTTGGGATTATCGCGGAGACGAACGTTTCCCATTA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GTCTGGGATACACAAACGGACGAGCGTTGGGATTATCGCGGAGACGAACGTTTCCCATTA
+
+ATGAGCACATTCAAAACGTTAGCGTGTGCCACCATGCTAAGCGACATGGAGAGCGGCAAA
+|||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||
+ATGAGCACATTCAAAACGTTAGCGTGTGCCACCATGCTAAGCGACATGGACAGCGGCAAA
+
+CTCAACAAAAATGCCACAGCGAAAATCGATGAACGCAATATTGTGGTTTGGTCTCCGGTG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CTCAACAAAAATGCCACAGCGAAAATCGATGAACGCAATATTGTGGTTTGGTCTCCGGTG
+
+ATGGATAAACTGGCTGGACAAAGCACACGTATCGAACACGCTTGTGAGGCCGCCATGTTG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ATGGATAAACTGGCTGGACAAAGCACACGTATCGAACACGCTTGTGAGGCCGCCATGTTG
+
+ATGAGCGACAACACCGCCGCGAACTTAGTGCTAAATGAAATTGGTGGTCCTAAAGCGGTC
+|||||||||||||||||||||||||| |||||||||||||||||||||||||||||||||
+ATGAGCGACAACACCGCCGCGAACTTGGTGCTAAATGAAATTGGTGGTCCTAAAGCGGTC
+
+ACGCTGTTTTTGCGATCTATTGGCGACAAAGCAACGCGACTTGACCGATTGGAACCCCGT
+||| |||||||||| |||||||||||||||||||||||||||||||||||||||||||||
+ACGTTGTTTTTGCGCTCTATTGGCGACAAAGCAACGCGACTTGACCGATTGGAACCCCGT
+
+TTGAATGAAGCAAAACCGGGCGATAAGCGAGACACCACAACGCCTAACGCCATGGTAAAC
+||||||||||| ||||||||||| ||||||||||||||||||||||||||||||||||||
+TTGAATGAAGCGAAACCGGGCGACAAGCGAGACACCACAACGCCTAACGCCATGGTAAAC
+
+ACCCTACATACCTTGATGGAAGATAACGCCCTATCTTACGAGTCACGCACACAGCTGAAA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ACCCTACATACCTTGATGGAAGATAACGCCCTATCTTACGAGTCACGCACACAGCTGAAA
+
+ATCTGGATGCAAGACAACAAAGTATCGGATTCTCTCATGCGCTCTGTTCTGCCAAAAGGC
+|||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||
+ATCTGGATGCAAGACAACAAAGTATCGGATTCTCTCATGCGCTCTGTTCTACCAAAAGGC
+
+TGGTCGATTGCAGACCGCTCTGGCGCAGGTAACTACGGTTCACGCGGCATTAGCGCGATG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+TGGTCGATTGCAGACCGCTCTGGCGCAGGTAACTACGGTTCACGCGGCATTAGCGCGATG
+
+ATCTGGAAAGACAACTACAAGCCGGTTTACATCAGTATTTACGTCACAGACACTGACCTT
+|| |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ATTTGGAAAGACAACTACAAGCCGGTTTACATCAGTATTTACGTCACAGACACTGACCTT
+
+TCGCTTCAAGCTCGCGATCAACTGATCGCGCAAATCAGCCAACTGATTTTAGAGCACTAC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+TCGCTTCAAGCTCGCGATCAACTGATCGCGCAAATCAGCCAACTGATTTTAGAGCACTAC
+
+AAAGAAAGTTAA
+||||||||||||
+AAAGAAAGTTAA
+
+

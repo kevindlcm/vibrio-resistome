@@ -1,0 +1,4 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+blaCARB-41	99.18	852/852	100.0	1..852	NZ_CP011885.1 Vibrio parahaemolyticus strain MAVP-Q chromosome 2, complete sequence	1301763..1302614	Ampicillin, Amoxicillin, Piperacillin	BK008890
+blaCARB-33	99.18	852/852	100.0	1..852	NZ_CP011885.1 Vibrio parahaemolyticus strain MAVP-Q chromosome 2, complete sequence	1301763..1302614	Ampicillin, Amoxicillin, Piperacillin	BK008903
+blaCARB-29	99.18	852/852	100.0	1..852	NZ_CP011885.1 Vibrio parahaemolyticus strain MAVP-Q chromosome 2, complete sequence	1301763..1302614	Ampicillin, Amoxicillin, Piperacillin	BK008905

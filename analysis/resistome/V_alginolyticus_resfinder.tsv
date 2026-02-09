@@ -1,0 +1,38 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+blaCARB-42	98.94	852/852	100.0	1..852	NZ_CP013485.1 Vibrio alginolyticus strain ATCC 33787 chromosome II, complete sequence	53838..54689	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+aph(6)-Id	100.00	837/837	100.0	1..837	NZ_CP016224.1 Vibrio alginolyticus strain ZJ-T chromosome 1, complete sequence	2547899..2548735	Streptomycin	M28829
+aph(3'')-Ib	100.00	804/804	100.0	1..804	NZ_CP016224.1 Vibrio alginolyticus strain ZJ-T chromosome 1, complete sequence	2547096..2547899	Streptomycin	AF321551
+blaCARB-42	99.41	852/852	100.0	1..852	NZ_CP016225.1 Vibrio alginolyticus strain ZJ-T chromosome 2, complete sequence	1218487..1219338	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+qnrVC5	100.00	657/657	100.0	1..657	NZ_CP016224.1 Vibrio alginolyticus strain ZJ-T chromosome 1, complete sequence	2554917..2555573	Ciprofloxacin	JN408080
+sul2	100.00	816/816	100.0	1..816	NZ_CP016224.1 Vibrio alginolyticus strain ZJ-T chromosome 1, complete sequence	2546220..2547035	Sulfamethoxazole	AY034138
+dfrA31	100.00	474/474	100.0	1..474	NZ_CP016224.1 Vibrio alginolyticus strain ZJ-T chromosome 1, complete sequence	2554281..2554754	Trimethoprim	AB200915
+blaCARB-42	100.00	852/852	100.0	1..852	NZ_CP017890.1 Vibrio alginolyticus strain K01M1 chromosome 2, complete sequence	506453..507304	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	100.00	852/852	100.0	1..852	NZ_CP017900.1 Vibrio alginolyticus strain K04M5 chromosome 2, complete sequence	515740..516591	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	100.00	852/852	100.0	1..852	NZ_CP017908.1 Vibrio alginolyticus strain K06K5 chromosome 2, complete sequence	485559..486410	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	100.00	852/852	100.0	1..852	NZ_CP017912.1 Vibrio alginolyticus strain K10K4 chromosome 2, complete sequence	485553..486404	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	100.00	852/852	100.0	1..852	NZ_CP017918.1 Vibrio alginolyticus strain K09K1 chromosome I, complete sequence	1417143..1417994	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	100.00	852/852	100.0	1..852	NZ_CP017914.1 Vibrio alginolyticus strain K08M3 chromosome II, complete sequence	485571..486422	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	100.00	852/852	100.0	1..852	NZ_CP017897.1 Vibrio alginolyticus isolate K04M3 chromosome II, complete sequence	485566..486417	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	99.65	852/852	100.0	1..852	NZ_CP014054.1 Vibrio alginolyticus strain FDAARGOS_108 chromosome 2, complete sequence	1510758..1511609	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+qnrS5	97.10	656/657	99.84779299847793	1..656	NZ_CP014053.1 Vibrio alginolyticus strain FDAARGOS_108 chromosome 1, complete sequence	1701514..1702169	Ciprofloxacin	HQ631377
+qnrS5	97.10	656/657	99.84779299847793	1..656	NZ_CP014053.1 Vibrio alginolyticus strain FDAARGOS_108 chromosome 1, complete sequence	1668007..1668662	Ciprofloxacin	HQ631377
+blaCARB-42	99.53	852/852	100.0	1..852	NZ_CP014041.1 Vibrio alginolyticus strain FDAARGOS_110 chromosome 2, complete sequence	1831305..1832156	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	98.59	852/852	100.0	1..852	NZ_CP014044.1 Vibrio alginolyticus strain FDAARGOS_114 chromosome 2, complete sequence	623206..624057	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+qnrVC6	98.48	657/657	100.0	1..657	NZ_CP014045.1 Vibrio alginolyticus strain FDAARGOS_114 chromosome 1, complete sequence	1364276..1364932	Ciprofloxacin	KC202804
+blaCARB-42	100.00	852/852	100.0	1..852	NZ_CP017892.1 Vibrio alginolyticus strain K04M1 chromosome 2, complete sequence	485565..486416	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	100.00	852/852	100.0	1..852	NZ_CP017903.1 Vibrio alginolyticus strain K05K4 chromosome 2, complete sequence	498263..499114	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	99.06	852/852	100.0	1..852	NZ_CP035699.1 Vibrio alginolyticus strain 2013V-1302 chromosome 2, complete sequence	360510..361361	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+aph(3')-Ia	100.00	816/816	100.0	1..816	NZ_CP046773.1 Vibrio alginolyticus strain 2014V-1011 plasmid unnamed2, complete sequence	123220..124035	Kanamycin, Neomycin, Unknown Aminoglycoside, Neomycin, Kanamycin, Lividomycin, Paromomycin, Ribostamycin, Kanamycin	V00359
+blaCARB-42	99.65	852/852	100.0	1..852	NZ_CP046771.1 Vibrio alginolyticus strain 2014V-1011 chromosome 2, complete sequence	474210..475061	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+sul1	100.00	840/840	100.0	1..840	NZ_CP046773.1 Vibrio alginolyticus strain 2014V-1011 plasmid unnamed2, complete sequence	126015..126854	Sulfamethoxazole	U12338
+sul2	100.00	816/816	100.0	1..816	NZ_CP046773.1 Vibrio alginolyticus strain 2014V-1011 plasmid unnamed2, complete sequence	3282..4097	Sulfamethoxazole	AY034138
+dfrA15	100.00	474/474	100.0	1..474	NZ_CP046773.1 Vibrio alginolyticus strain 2014V-1011 plasmid unnamed2, complete sequence	127396..127869	Trimethoprim	AF221900
+blaCARB-42	99.53	852/852	100.0	1..852	NZ_CP046805.1 Vibrio alginolyticus strain 2439-01 chromosome 2, complete sequence	444737..445588	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	98.71	852/852	100.0	1..852	NZ_CP046813.1 Vibrio alginolyticus strain 2010V-1102 chromosome 2, complete sequence	635491..636342	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	99.65	852/852	100.0	1..852	NZ_CP042450.1 Vibrio alginolyticus strain FA2 chromosome 2, complete sequence	839935..840786	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	90.38	852/852	100.0	1..852	NZ_AP022860.1 Vibrio alginolyticus strain 138-2 chromosome 2, complete sequence	1314282..1315133	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	90.38	852/852	100.0	1..852	NZ_AP022862.1 Vibrio alginolyticus strain VIO5 chromosome 2, complete sequence	1314282..1315133	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	90.38	852/852	100.0	1..852	NZ_AP022864.1 Vibrio alginolyticus strain YM19 chromosome 2, complete sequence	1314276..1315127	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	90.38	852/852	100.0	1..852	NZ_AP022866.1 Vibrio alginolyticus strain YM4 chromosome 2, complete sequence	1314276..1315127	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	98.94	852/852	100.0	1..852	NZ_CP054701.1 Vibrio alginolyticus strain GS_MYPK1 chromosome 2, complete sequence	1764651..1765502	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	98.94	852/852	100.0	1..852	NZ_CP098033.1 Vibrio alginolyticus strain E110 chromosome 1, complete sequence	599565..600416	Ampicillin, Amoxicillin, Piperacillin	NG_048745

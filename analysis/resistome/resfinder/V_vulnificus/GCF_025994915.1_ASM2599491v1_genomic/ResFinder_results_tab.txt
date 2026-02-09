@@ -1,0 +1,5 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+blaCTX-M-55	100.00	876/876	100.0	1..876	NZ_AP026554.1 Vibrio vulnificus strain VV20-8B-2 isolate homogenised shrimp plasmid pVV20-8B-2, complete sequence	289945..290820	Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin	DQ810789
+qnrS2	100.00	657/657	100.0	1..657	NZ_AP026554.1 Vibrio vulnificus strain VV20-8B-2 isolate homogenised shrimp plasmid pVV20-8B-2, complete sequence	282979..283635	Ciprofloxacin	DQ485530
+sul2	100.00	816/816	100.0	1..816	NZ_AP026552.1 Vibrio vulnificus strain VV20-8B-2 isolate homogenised shrimp chromosome 1, complete sequence	2594131..2594946	Sulfamethoxazole	AY034138
+tet(59)	99.67	1203/1203	100.0	1..1203	NZ_AP026552.1 Vibrio vulnificus strain VV20-8B-2 isolate homogenised shrimp chromosome 1, complete sequence	2600184..2601386	Doxycycline, Tetracycline	KU736878

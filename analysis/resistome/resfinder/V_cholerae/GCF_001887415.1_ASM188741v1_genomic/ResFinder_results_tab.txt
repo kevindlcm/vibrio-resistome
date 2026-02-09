@@ -1,0 +1,2 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+catB9	99.68	630/630	100.0	1..630	NZ_CP013312.1 Vibrio cholerae strain E1320 chromosome 2, complete sequence	695612..696241	Chloramphenicol	AF462019

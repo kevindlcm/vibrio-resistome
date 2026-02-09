@@ -1,0 +1,200 @@
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                                  Beta-lactam                                                                                                                                  |
++-------------------+------------+--------------------------------+------------+-------------------------+-------------------------------------------------------------------------------------+----------------------+---------------------------------------+-----------------+
+| Resistance gene   |   Identity | Alignment Length/Gene Length   |   Coverage | Position in reference   | Contig                                                                              | Position in contig   | Phenotype                             | Accession no.   |
+|-------------------+------------+--------------------------------+------------+-------------------------+-------------------------------------------------------------------------------------+----------------------+---------------------------------------+-----------------|
+| blaCARB-41        |    99.1784 | 852/852                        |        100 | 1..852                  | NZ_CP011885.1 Vibrio parahaemolyticus strain MAVP-Q chromosome 2, complete sequence | 1301763..1302614     | Ampicillin, Amoxicillin, Piperacillin | BK008890        |
+| blaCARB-33        |    99.1784 | 852/852                        |        100 | 1..852                  | NZ_CP011885.1 Vibrio parahaemolyticus strain MAVP-Q chromosome 2, complete sequence | 1301763..1302614     | Ampicillin, Amoxicillin, Piperacillin | BK008903        |
+| blaCARB-29        |    99.1784 | 852/852                        |        100 | 1..852                  | NZ_CP011885.1 Vibrio parahaemolyticus strain MAVP-Q chromosome 2, complete sequence | 1301763..1302614     | Ampicillin, Amoxicillin, Piperacillin | BK008905        |
++-------------------+------------+--------------------------------+------------+-------------------------+-------------------------------------------------------------------------------------+----------------------+---------------------------------------+-----------------+
+
+##################### beta-lactam #####################
+blaCARB-41, ID: 99.18 %, Alignment Length/Gene Length: 852/852, Coverage: 100.0, Positions in reference: 1..852, Contig name: NZ_CP011885.1 Vibrio parahaemolyticus strain MAVP-Q chromosome 2, complete sequence, Position: 1301763..1302614
+
+ATGAAAAAGTTATTCCTGTTGGTTGGGCTGATGGTTTGCTCAACTGTTAGTTACGCCTCC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ATGAAAAAGTTATTCCTGTTGGTTGGGCTGATGGTTTGCTCAACTGTTAGTTACGCCTCC
+
+AAATTAAACGAAGACATCTCCCTCATCGAGAAACAAACATCTGGGCGAATTGGAGTGTCA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+AAATTAAACGAAGACATCTCCCTCATCGAGAAACAAACATCTGGGCGAATTGGAGTGTCA
+
+GTCTGGGATACACAAACGGACGAGCGTTGGGATTATCGCGGAGACGAACGTTTCCCATTA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GTCTGGGATACACAAACGGACGAGCGTTGGGATTATCGCGGAGACGAACGTTTCCCATTA
+
+ATGAGCACATTCAAAACGTTAGCGTGTGCCACCATGCTAAGCGACATGGACAGCGGCAAA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ATGAGCACATTCAAAACGTTAGCGTGTGCCACCATGCTAAGCGACATGGACAGCGGCAAA
+
+CTCAACAAAAATGCCACAGCGAAAATCGATGAACGCAATATTGTGGTTTGGTCTCCGGTG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CTCAACAAAAATGCCACAGCGAAAATCGATGAACGCAATATTGTGGTTTGGTCTCCGGTG
+
+ATGGATAAACTGGCTGGACAAAGCACACGTGTCGAACACGCTTGTGAGGCTGCCATGTTG
+|||||||||||||||||||||||||||||| ||||||||||||||||||| |||||||||
+ATGGATAAACTGGCTGGACAAAGCACACGTATCGAACACGCTTGTGAGGCCGCCATGTTG
+
+ATGAGCGACAACACCGCCGCGAACTTAGTGCTAAATGAAATTGGTGGTCCTAAAGCGGTC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ATGAGCGACAACACCGCCGCGAACTTAGTGCTAAATGAAATTGGTGGTCCTAAAGCGGTC
+
+ACGCTGTTTTTGCGATCTATTGGCGACAAAGCAACGCGACTTGACCGATTGGAACCCCGT
+||| ||||||||||||| ||||| ||||||||||||||||||||||||||||||||||||
+ACGTTGTTTTTGCGATCGATTGGTGACAAAGCAACGCGACTTGACCGATTGGAACCCCGT
+
+TTGAATGAAGCAAAACCGGGCGATAAGCGAGACACCACAACGCCTAACGCCATGGTAAAC
+|||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||
+TTGAATGAAGCAAAACCGGGCGATAAGCGAGACACCACAACGCCCAACGCCATGGTAAAC
+
+ACCCTACATACCTTGATGGAAGATAACGCCCTATCTTACGAGTCACGCACACAGCTGAAA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ACCCTACATACCTTGATGGAAGATAACGCCCTATCTTACGAGTCACGCACACAGCTGAAA
+
+ATCTGGATGCAAGACAACAAAGTATCGGATTCTCTCATGCGCTCTGTTCTGCCAAAAGGC
+|||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||
+ATCTGGATGCAAGACAACAAAGTATCGGATTCGCTCATGCGCTCTGTTCTGCCAAAAGGC
+
+TGGTCGATTGCAGACCGCTCTGGCGCAGGTAACTACGGTTCACGCGGCATTAGCGCGATG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+TGGTCGATTGCAGACCGCTCTGGCGCAGGTAACTACGGTTCACGCGGCATTAGCGCGATG
+
+ATCTGGAAAGACAACTACAAGCCGGTTTACATCAGTATTTACGTCACAGACACCGACCTT
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ATCTGGAAAGACAACTACAAGCCGGTTTACATCAGTATTTACGTCACAGACACCGACCTT
+
+TCGCTTCAAGCTCGCGATCAACTGATCGCGCAAATCAGCCAACTGATTTTAGAGCACTAC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+TCGCTTCAAGCTCGCGATCAACTGATCGCGCAAATCAGCCAACTGATTTTAGAGCACTAC
+
+AAAGAAAGTTAA
+||||||||||||
+AAAGAAAGTTAA
+
+
+blaCARB-33, ID: 99.18 %, Alignment Length/Gene Length: 852/852, Coverage: 100.0, Positions in reference: 1..852, Contig name: NZ_CP011885.1 Vibrio parahaemolyticus strain MAVP-Q chromosome 2, complete sequence, Position: 1301763..1302614
+
+ATGAAAAAGTTATTCCTGTTGGTTGGGCTGATGGTTTGCTCAACTGTTAGTTACGCCTCC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ATGAAAAAGTTATTCCTGTTGGTTGGGCTGATGGTTTGCTCAACTGTTAGTTACGCCTCC
+
+AAATTAAACGAAGACATCTCCCTCATCGAGAAACAAACATCTGGGCGAATTGGAGTGTCA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+AAATTAAACGAAGACATCTCCCTCATCGAGAAACAAACATCTGGGCGAATTGGAGTGTCA
+
+GTCTGGGATACACAAACGGACGAGCGTTGGGATTATCGCGGAGACGAACGTTTCCCATTA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GTCTGGGATACACAAACGGACGAGCGTTGGGATTATCGCGGAGACGAACGTTTCCCATTA
+
+ATGAGCACATTCAAAACGTTAGCGTGTGCCACCATGCTAAGCGACATGGAGAGCGGCAAA
+|||||||||||||||||||||||||||||||||||||||||||||||||| |||||||||
+ATGAGCACATTCAAAACGTTAGCGTGTGCCACCATGCTAAGCGACATGGACAGCGGCAAA
+
+CTCAACAAAAATGCCACAGCGAAAATCGATGAACGCAATATTGTGGTTTGGTCTCCGGTG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CTCAACAAAAATGCCACAGCGAAAATCGATGAACGCAATATTGTGGTTTGGTCTCCGGTG
+
+ATGGATAAACTGGCTGGACAAAGCACACGTATCGAACACGCTTGTGAGGCCGCCATGTTG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ATGGATAAACTGGCTGGACAAAGCACACGTATCGAACACGCTTGTGAGGCCGCCATGTTG
+
+ATGAGCGACAACACCGCCGCGAACTTAGTGCTAAATGAAATTGGTGGTCCTAAAGCGGTC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ATGAGCGACAACACCGCCGCGAACTTAGTGCTAAATGAAATTGGTGGTCCTAAAGCGGTC
+
+ACGCTGTTTTTGCGATCTATTGGCGACAAAGCAACGCGACTTGACCGATTGGAACCCCGT
+||| ||||||||||||| ||||| ||||||||||||||||||||||||||||||||||||
+ACGTTGTTTTTGCGATCGATTGGTGACAAAGCAACGCGACTTGACCGATTGGAACCCCGT
+
+TTGAATGAAGCAAAACCGGGCGATAAGCGAGACACCACAACGCCTAACGCCATGGTAAAC
+|||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||
+TTGAATGAAGCAAAACCGGGCGATAAGCGAGACACCACAACGCCCAACGCCATGGTAAAC
+
+ACCCTACATACCTTGATGGAAGATAACGCCCTATCTTACGAGTCACGCACACAGCTGAAA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ACCCTACATACCTTGATGGAAGATAACGCCCTATCTTACGAGTCACGCACACAGCTGAAA
+
+ATCTGGATGCAAGACAACAAAGTATCGGATTCTCTCATGCGCTCTGTTCTGCCAAAAGGC
+|||||||||||||||||||||||||||||||| |||||||||||||||||||||||||||
+ATCTGGATGCAAGACAACAAAGTATCGGATTCGCTCATGCGCTCTGTTCTGCCAAAAGGC
+
+TGGTCGATTGCAGACCGCTCTGGCGCAGGTAACTACGGTTCACGCGGCATTAGCGCGATG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+TGGTCGATTGCAGACCGCTCTGGCGCAGGTAACTACGGTTCACGCGGCATTAGCGCGATG
+
+ATCTGGAAAGACAACTACAAGCCGGTTTACATCAGTATTTACGTCACAGACACTGACCTT
+||||||||||||||||||||||||||||||||||||||||||||||||||||| ||||||
+ATCTGGAAAGACAACTACAAGCCGGTTTACATCAGTATTTACGTCACAGACACCGACCTT
+
+TCGCTTCAAGCTCGCGATCAACTGATCGCGCAAATCAGCCAACTGATTTTAGAGCACTAC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+TCGCTTCAAGCTCGCGATCAACTGATCGCGCAAATCAGCCAACTGATTTTAGAGCACTAC
+
+AAAGAAAGTTAA
+||||||||||||
+AAAGAAAGTTAA
+
+
+blaCARB-29, ID: 99.18 %, Alignment Length/Gene Length: 852/852, Coverage: 100.0, Positions in reference: 1..852, Contig name: NZ_CP011885.1 Vibrio parahaemolyticus strain MAVP-Q chromosome 2, complete sequence, Position: 1301763..1302614
+
+ATGAAAAAGTTATTCCTGTTGGTTGGGCTGATGGTTTGCTCAACTGTTAGTTACGCGTCC
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||| |||
+ATGAAAAAGTTATTCCTGTTGGTTGGGCTGATGGTTTGCTCAACTGTTAGTTACGCCTCC
+
+AAATTAAACGAAGACATATCCATCATCGAGAAACAAACATCTGGGCGAATTGGAGTGTCA
+||||||||||||||||| ||| ||||||||||||||||||||||||||||||||||||||
+AAATTAAACGAAGACATCTCCCTCATCGAGAAACAAACATCTGGGCGAATTGGAGTGTCA
+
+GTCTGGGATACACAAACGGACGAGCGTTGGGATTATCGCGGAGACGAACGTTTCCCATTA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GTCTGGGATACACAAACGGACGAGCGTTGGGATTATCGCGGAGACGAACGTTTCCCATTA
+
+ATGAGCACATTCAAAACGTTAGCGTGTGCCACCATGCTAAGCGACATGGACAGCGGCAAA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ATGAGCACATTCAAAACGTTAGCGTGTGCCACCATGCTAAGCGACATGGACAGCGGCAAA
+
+CTCAACAAAAATGCCACAGCGAAAATCGATGAACGCAATATTGTGGTTTGGTCTCCGGTG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+CTCAACAAAAATGCCACAGCGAAAATCGATGAACGCAATATTGTGGTTTGGTCTCCGGTG
+
+ATGGATAAACTGGCTGGACAAAGCACACGTATCGAACACGCTTGTGAGGCCGCCATGTTG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ATGGATAAACTGGCTGGACAAAGCACACGTATCGAACACGCTTGTGAGGCCGCCATGTTG
+
+ATGAGCGACAACACCGCCGCGAACTTAGTGCTAAATGAAATTGGTGGTCCTAAAGCGGTC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ATGAGCGACAACACCGCCGCGAACTTAGTGCTAAATGAAATTGGTGGTCCTAAAGCGGTC
+
+ACGCTGTTTTTGCGATCTATTGGCGACAAAGCAACGCGACTTGACCGATTGGAACCCCGT
+||| ||||||||||||| ||||| ||||||||||||||||||||||||||||||||||||
+ACGTTGTTTTTGCGATCGATTGGTGACAAAGCAACGCGACTTGACCGATTGGAACCCCGT
+
+TTGAATGAAGCAAAACCGGGCGATAAGCGAGACACCACAACGCCTAACGCCATGGTAAAC
+|||||||||||||||||||||||||||||||||||||||||||| |||||||||||||||
+TTGAATGAAGCAAAACCGGGCGATAAGCGAGACACCACAACGCCCAACGCCATGGTAAAC
+
+ACCCTACATACCTTGATGGAAGATAACGCCCTATCTTACGAGTCACGCACACAGCTGAAA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ACCCTACATACCTTGATGGAAGATAACGCCCTATCTTACGAGTCACGCACACAGCTGAAA
+
+ATCTGGATGCAAGACAACAAAGTATCGGATTCGCTCATGCGCTCTGTTCTGCCAAAAGGC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ATCTGGATGCAAGACAACAAAGTATCGGATTCGCTCATGCGCTCTGTTCTGCCAAAAGGC
+
+TGGTCGATTGCAGACCGCTCTGGCGCAGGTAACTACGGTTCACGCGGCATTAGCGCGATG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+TGGTCGATTGCAGACCGCTCTGGCGCAGGTAACTACGGTTCACGCGGCATTAGCGCGATG
+
+ATCTGGAAAGACAACTACAAGCCGGTTTACATCAGTATTTACGTCACAGACACCGACCTT
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ATCTGGAAAGACAACTACAAGCCGGTTTACATCAGTATTTACGTCACAGACACCGACCTT
+
+TCGCTTCAAGCTCGCGATCAACTGATCGCGCAAATCAGCCAACTGATTTTAGAGCACTAC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+TCGCTTCAAGCTCGCGATCAACTGATCGCGCAAATCAGCCAACTGATTTTAGAGCACTAC
+
+AAAGAAAGTTAA
+||||||||||||
+AAAGAAAGTTAA
+
+

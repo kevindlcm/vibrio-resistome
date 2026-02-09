@@ -1,0 +1,56 @@
++----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                      Phenicol                                                                                                                      |
++-------------------+------------+--------------------------------+------------+-------------------------+--------------------------------------------------------------------------------+----------------------+-----------------+-----------------+
+| Resistance gene   |   Identity | Alignment Length/Gene Length   |   Coverage | Position in reference   | Contig                                                                         | Position in contig   | Phenotype       | Accession no.   |
+|-------------------+------------+--------------------------------+------------+-------------------------+--------------------------------------------------------------------------------+----------------------+-----------------+-----------------|
+| catB9             |        100 | 630/630                        |        100 | 1..630                  | NZ_CP012997.1 Vibrio cholerae strain 2012Env-9 chromosome 1, complete sequence | 913342..913971       | Chloramphenicol | AF462019        |
++-------------------+------------+--------------------------------+------------+-------------------------+--------------------------------------------------------------------------------+----------------------+-----------------+-----------------+
+
+##################### phenicol #####################
+catB9, ID: 100.00 %, Alignment Length/Gene Length: 630/630, Coverage: 100.0, Positions in reference: 1..630, Contig name: NZ_CP012997.1 Vibrio cholerae strain 2012Env-9 chromosome 1, complete sequence, Position: 913342..913971
+
+ATGAACTTCTTTACGTCTCCATTTTCTGGGATTCCCTTAGATCAGCAAGTAACAAATCCG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ATGAACTTCTTTACGTCTCCATTTTCTGGGATTCCCTTAGATCAGCAAGTAACAAATCCG
+
+AACATTATTGTGGGAAAACACAGTTATTATTCTGGTTATTATCACGGGCACAGTTTCGAT
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+AACATTATTGTGGGAAAACACAGTTATTATTCTGGTTATTATCACGGGCACAGTTTCGAT
+
+GATTGTGTGCGATATTTACATCCAGAAAGAGATGACGTTGATAAGTTAGTCATAGGGAGT
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GATTGTGTGCGATATTTACATCCAGAAAGAGATGACGTTGATAAGTTAGTCATAGGGAGT
+
+TTTTGTTCTATAGGCTCTGGTGCTGTATTTATGATGGCCGGTAATCAAGGGCATCGCAGT
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+TTTTGTTCTATAGGCTCTGGTGCTGTATTTATGATGGCCGGTAATCAAGGGCATCGCAGT
+
+GATTGGATAAGTACATTCCCATTTTTCTATCAGGATAATGATAATTTTGCAGATGCACGC
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GATTGGATAAGTACATTCCCATTTTTCTATCAGGATAATGATAATTTTGCAGATGCACGC
+
+GATGGTTTTACGCGTTCAGGAGACACAATTATTGGTCATGATGTGTGGATTGGCACTGAG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GATGGTTTTACGCGTTCAGGAGACACAATTATTGGTCATGATGTGTGGATTGGCACTGAG
+
+GCTATGATAATGCCTGGGGTTAAAATTGGACATGGAGCGATAATCGCCAGTCGTTCAGTA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GCTATGATAATGCCTGGGGTTAAAATTGGACATGGAGCGATAATCGCCAGTCGTTCAGTA
+
+GTGACTAAGGATGTTGCACCTTATGAAGTGGTCGGTTCAAATCCTGCTAAACATATCAAG
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GTGACTAAGGATGTTGCACCTTATGAAGTGGTCGGTTCAAATCCTGCTAAACATATCAAG
+
+TTTAGATTTTCTGATGTGGAAATAGCGATGTTACTTGAAATGGCATGGTGGAATTGGCCA
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+TTTAGATTTTCTGATGTGGAAATAGCGATGTTACTTGAAATGGCATGGTGGAATTGGCCA
+
+GAATCGTGGTTGAAAGAGAGTATGCAGTCTCTGTGTTCATCAGACATTGAAGGGCTTTAT
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+GAATCGTGGTTGAAAGAGAGTATGCAGTCTCTGTGTTCATCAGACATTGAAGGGCTTTAT
+
+CTCAATTGGCAGTCAAAAGCACGCACATAA
+||||||||||||||||||||||||||||||
+CTCAATTGGCAGTCAAAAGCACGCACATAA
+
+

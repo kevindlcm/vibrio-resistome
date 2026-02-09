@@ -1,0 +1,2 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+blaCARB-42	100.00	852/852	100.0	1..852	NZ_CP017918.1 Vibrio alginolyticus strain K09K1 chromosome I, complete sequence	1417143..1417994	Ampicillin, Amoxicillin, Piperacillin	NG_048745

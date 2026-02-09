@@ -1,0 +1,151 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+blaCARB-42	98.94	852/852	100.0	1..852	NZ_CP013485.1 Vibrio alginolyticus strain ATCC 33787 chromosome II, complete sequence	53838..54689	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+aph(6)-Id	100.00	837/837	100.0	1..837	NZ_CP016224.1 Vibrio alginolyticus strain ZJ-T chromosome 1, complete sequence	2547899..2548735	Streptomycin	M28829
+aph(3'')-Ib	100.00	804/804	100.0	1..804	NZ_CP016224.1 Vibrio alginolyticus strain ZJ-T chromosome 1, complete sequence	2547096..2547899	Streptomycin	AF321551
+blaCARB-42	99.41	852/852	100.0	1..852	NZ_CP016225.1 Vibrio alginolyticus strain ZJ-T chromosome 2, complete sequence	1218487..1219338	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+qnrVC5	100.00	657/657	100.0	1..657	NZ_CP016224.1 Vibrio alginolyticus strain ZJ-T chromosome 1, complete sequence	2554917..2555573	Ciprofloxacin	JN408080
+sul2	100.00	816/816	100.0	1..816	NZ_CP016224.1 Vibrio alginolyticus strain ZJ-T chromosome 1, complete sequence	2546220..2547035	Sulfamethoxazole	AY034138
+dfrA31	100.00	474/474	100.0	1..474	NZ_CP016224.1 Vibrio alginolyticus strain ZJ-T chromosome 1, complete sequence	2554281..2554754	Trimethoprim	AB200915
+blaCARB-42	100.00	852/852	100.0	1..852	NZ_CP017890.1 Vibrio alginolyticus strain K01M1 chromosome 2, complete sequence	506453..507304	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	100.00	852/852	100.0	1..852	NZ_CP017900.1 Vibrio alginolyticus strain K04M5 chromosome 2, complete sequence	515740..516591	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	100.00	852/852	100.0	1..852	NZ_CP017908.1 Vibrio alginolyticus strain K06K5 chromosome 2, complete sequence	485559..486410	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	100.00	852/852	100.0	1..852	NZ_CP017912.1 Vibrio alginolyticus strain K10K4 chromosome 2, complete sequence	485553..486404	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	100.00	852/852	100.0	1..852	NZ_CP017918.1 Vibrio alginolyticus strain K09K1 chromosome I, complete sequence	1417143..1417994	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	100.00	852/852	100.0	1..852	NZ_CP017914.1 Vibrio alginolyticus strain K08M3 chromosome II, complete sequence	485571..486422	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	100.00	852/852	100.0	1..852	NZ_CP017897.1 Vibrio alginolyticus isolate K04M3 chromosome II, complete sequence	485566..486417	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	99.65	852/852	100.0	1..852	NZ_CP014054.1 Vibrio alginolyticus strain FDAARGOS_108 chromosome 2, complete sequence	1510758..1511609	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+qnrS5	97.10	656/657	99.84779299847793	1..656	NZ_CP014053.1 Vibrio alginolyticus strain FDAARGOS_108 chromosome 1, complete sequence	1701514..1702169	Ciprofloxacin	HQ631377
+qnrS5	97.10	656/657	99.84779299847793	1..656	NZ_CP014053.1 Vibrio alginolyticus strain FDAARGOS_108 chromosome 1, complete sequence	1668007..1668662	Ciprofloxacin	HQ631377
+blaCARB-42	99.53	852/852	100.0	1..852	NZ_CP014041.1 Vibrio alginolyticus strain FDAARGOS_110 chromosome 2, complete sequence	1831305..1832156	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	98.59	852/852	100.0	1..852	NZ_CP014044.1 Vibrio alginolyticus strain FDAARGOS_114 chromosome 2, complete sequence	623206..624057	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+qnrVC6	98.48	657/657	100.0	1..657	NZ_CP014045.1 Vibrio alginolyticus strain FDAARGOS_114 chromosome 1, complete sequence	1364276..1364932	Ciprofloxacin	KC202804
+blaCARB-42	100.00	852/852	100.0	1..852	NZ_CP017892.1 Vibrio alginolyticus strain K04M1 chromosome 2, complete sequence	485565..486416	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	100.00	852/852	100.0	1..852	NZ_CP017903.1 Vibrio alginolyticus strain K05K4 chromosome 2, complete sequence	498263..499114	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	99.06	852/852	100.0	1..852	NZ_CP035699.1 Vibrio alginolyticus strain 2013V-1302 chromosome 2, complete sequence	360510..361361	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+aph(3')-Ia	100.00	816/816	100.0	1..816	NZ_CP046773.1 Vibrio alginolyticus strain 2014V-1011 plasmid unnamed2, complete sequence	123220..124035	Kanamycin, Neomycin, Unknown Aminoglycoside, Neomycin, Kanamycin, Lividomycin, Paromomycin, Ribostamycin, Kanamycin	V00359
+blaCARB-42	99.65	852/852	100.0	1..852	NZ_CP046771.1 Vibrio alginolyticus strain 2014V-1011 chromosome 2, complete sequence	474210..475061	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+sul1	100.00	840/840	100.0	1..840	NZ_CP046773.1 Vibrio alginolyticus strain 2014V-1011 plasmid unnamed2, complete sequence	126015..126854	Sulfamethoxazole	U12338
+sul2	100.00	816/816	100.0	1..816	NZ_CP046773.1 Vibrio alginolyticus strain 2014V-1011 plasmid unnamed2, complete sequence	3282..4097	Sulfamethoxazole	AY034138
+dfrA15	100.00	474/474	100.0	1..474	NZ_CP046773.1 Vibrio alginolyticus strain 2014V-1011 plasmid unnamed2, complete sequence	127396..127869	Trimethoprim	AF221900
+blaCARB-42	99.53	852/852	100.0	1..852	NZ_CP046805.1 Vibrio alginolyticus strain 2439-01 chromosome 2, complete sequence	444737..445588	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	98.71	852/852	100.0	1..852	NZ_CP046813.1 Vibrio alginolyticus strain 2010V-1102 chromosome 2, complete sequence	635491..636342	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	99.65	852/852	100.0	1..852	NZ_CP042450.1 Vibrio alginolyticus strain FA2 chromosome 2, complete sequence	839935..840786	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	90.38	852/852	100.0	1..852	NZ_AP022860.1 Vibrio alginolyticus strain 138-2 chromosome 2, complete sequence	1314282..1315133	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	90.38	852/852	100.0	1..852	NZ_AP022862.1 Vibrio alginolyticus strain VIO5 chromosome 2, complete sequence	1314282..1315133	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	90.38	852/852	100.0	1..852	NZ_AP022864.1 Vibrio alginolyticus strain YM19 chromosome 2, complete sequence	1314276..1315127	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	90.38	852/852	100.0	1..852	NZ_AP022866.1 Vibrio alginolyticus strain YM4 chromosome 2, complete sequence	1314276..1315127	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	98.94	852/852	100.0	1..852	NZ_CP054701.1 Vibrio alginolyticus strain GS_MYPK1 chromosome 2, complete sequence	1764651..1765502	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+blaCARB-42	98.94	852/852	100.0	1..852	NZ_CP098033.1 Vibrio alginolyticus strain E110 chromosome 1, complete sequence	599565..600416	Ampicillin, Amoxicillin, Piperacillin	NG_048745
+aph(6)-Id	100.00	837/837	100.0	1..837	NZ_CP007634.1 Vibrio cholerae strain 2012EL-2176 chromosome 1, complete sequence	111494..112330	Streptomycin	M28829
+aph(6)-Id	100.00	837/837	100.0	1..837	NZ_CP007634.1 Vibrio cholerae strain 2012EL-2176 chromosome 1, complete sequence	100317..101153	Streptomycin	M28829
+aph(3'')-Ib	99.88	804/804	100.0	1..804	NZ_CP007634.1 Vibrio cholerae strain 2012EL-2176 chromosome 1, complete sequence	112330..113133	Streptomycin	AF321551
+aph(3'')-Ib	99.88	804/804	100.0	1..804	NZ_CP007634.1 Vibrio cholerae strain 2012EL-2176 chromosome 1, complete sequence	101153..101956	Streptomycin	AF321551
+aph(6)-Id	100.00	837/837	100.0	1..837	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	48771..49607	Streptomycin	M28829
+aph(3'')-Ib	100.00	804/804	100.0	1..804	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	49607..50410	Streptomycin	AF321551
+aadA16	99.63	806/846	95.27186761229315	1..806	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	134621..135426	Spectinomycin, Streptomycin	EU675686
+aac(3)-IIa	100.00	802/861	93.14750290360047	1..802	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	38427..39228	Apramycin, Gentamicin, Tobramycin, Dibekacin, Netilmicin, Sisomicin, Gentamicin, Tobramycin	X51534
+blaCMY-2	100.00	1146/1146	100.0	1..1146	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	79627..80772	Amoxicillin, Amoxicillin+Clavulanic acid, Ampicillin, Ampicillin+Clavulanic acid, Cefotaxime, Cefoxitin, Ceftazidime, Piperacillin, Piperacillin+Tazobactam, Ticarcillin, Ticarcillin+Clavulanic acid	X91840
+blaCTX-M-2	100.00	876/876	100.0	1..876	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	141155..142030	Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin	AB176535
+blaTEM-1D	100.00	861/861	100.0	1..861	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	37385..38245	Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin	AF188200
+mph(A)	100.00	906/906	100.0	1..906	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	150932..151837	Erythromycin, Azithromycin, Spiramycin, Telithromycin	D16251
+FloR	100.00	1215/1215	100.0	1..1215	NZ_CP007634.1 Vibrio cholerae strain 2012EL-2176 chromosome 1, complete sequence	98147..99361	Chloramphenicol,Florfenicol	CP136914
+FloR	100.00	1215/1215	100.0	1..1215	NZ_CP007634.1 Vibrio cholerae strain 2012EL-2176 chromosome 1, complete sequence	109324..110538	Chloramphenicol,Florfenicol	CP136914
+catB9	100.00	630/630	100.0	1..630	NZ_CP007635.1 Vibrio cholerae strain 2012EL-2176 chromosome 2, complete sequence	40302..40931	Chloramphenicol	AF462019
+FloR	100.00	1215/1215	100.0	1..1215	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	44422..45636	Chloramphenicol,Florfenicol	CP136914
+ARR-3	100.00	453/453	100.0	1..453	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	133382..133834	Rifampicin	JF806499
+sul2	100.00	816/816	100.0	1..816	NZ_CP007634.1 Vibrio cholerae strain 2012EL-2176 chromosome 1, complete sequence	113194..114009	Sulfamethoxazole	AY034138
+sul2	100.00	816/816	100.0	1..816	NZ_CP007634.1 Vibrio cholerae strain 2012EL-2176 chromosome 1, complete sequence	102017..102832	Sulfamethoxazole	AY034138
+sul1	100.00	840/840	100.0	1..840	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	137871..138710	Sulfamethoxazole	U12338
+sul1	100.00	840/840	100.0	1..840	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	143455..144294	Sulfamethoxazole	U12338
+sul2	100.00	816/816	100.0	1..816	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	50471..51286	Sulfamethoxazole	AY034138
+tet(A)	100.00	1275/1275	100.0	1..1275	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	46236..47510	Doxycycline, Tetracycline	AF534183
+dfrA1	100.00	474/474	100.0	1..474	NZ_CP007634.1 Vibrio cholerae strain 2012EL-2176 chromosome 1, complete sequence	163681..164154	Trimethoprim	X00926
+dfrA27	100.00	474/474	100.0	1..474	NZ_CP007636.1 Vibrio cholerae strain 2012EL-2176 plasmid unnamed, complete sequence	133967..134440	Trimethoprim	FJ459817
+catB9	100.00	630/630	100.0	1..630	NZ_CP012997.1 Vibrio cholerae strain 2012Env-9 chromosome 1, complete sequence	913342..913971	Chloramphenicol	AF462019
+catB9	100.00	630/630	100.0	1..630	NZ_LT907990.1 Vibrio cholerae strain A19 chromosome 2	315307..315936	Chloramphenicol	AF462019
+catB9	100.00	630/630	100.0	1..630	NZ_CP013013.1 Vibrio cholerae strain Env-390 chromosome 1, complete sequence	914539..915168	Chloramphenicol	AF462019
+catB9	100.00	630/630	100.0	1..630	NZ_CP013302.1 Vibrio cholerae strain C5 chromosome 2, complete sequence	313959..314588	Chloramphenicol	AF462019
+catB9	99.68	630/630	100.0	1..630	NZ_CP013312.1 Vibrio cholerae strain E1320 chromosome 2, complete sequence	695612..696241	Chloramphenicol	AF462019
+catB9	100.00	630/630	100.0	1..630	NZ_CP013304.1 Vibrio cholerae strain CRC711 chromosome 2, complete sequence	314001..314630	Chloramphenicol	AF462019
+catB9	100.00	630/630	100.0	1..630	NZ_CP013306.1 Vibrio cholerae strain CRC1106 chromosome 2, complete sequence	314006..314635	Chloramphenicol	AF462019
+catB9	100.00	630/630	100.0	1..630	NZ_CP013310.1 Vibrio cholerae strain E1162 chromosome 2, complete sequence	444799..445428	Chloramphenicol	AF462019
+catB9	100.00	630/630	100.0	1..630	NZ_CP013314.1 Vibrio cholerae strain E9120 chromosome 2, complete sequence	313965..314594	Chloramphenicol	AF462019
+catB9	100.00	630/630	100.0	1..630	NZ_CP020407.2 Vibrio cholerae strain FDAARGOS_223 chromosome 2, complete sequence	868913..869542	Chloramphenicol	AF462019
+aac(3)-IId	99.88	861/861	100.0	1..861	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	5470..6330	Apramycin, Gentamicin, Tobramycin, Dibekacin, Netilmicin, Sisomicin	EU022314
+aph(6)-Id	100.00	837/837	100.0	1..837	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	31694..32530	Streptomycin	M28829
+aph(3')-Ia	100.00	816/816	100.0	1..816	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	934..1749	Kanamycin, Unknown Aminoglycoside, Neomycin, Kanamycin, Lividomycin, Paromomycin, Ribostamycin, Kanamycin, Neomycin	X62115
+aph(3'')-Ib	100.00	804/804	100.0	1..804	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	32530..33333	Streptomycin	AF321551
+aadA2	100.00	792/792	100.0	1..792	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	23405..24196	Spectinomycin, Streptomycin	JQ364967
+blaTEM-1A	100.00	861/861	100.0	1..861	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	132930..133790	Amoxicillin, Ampicillin, Cephalothin, Piperacillin, Ticarcillin	HM749966
+msr(E)	100.00	1476/1476	100.0	1..1476	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	17504..18979	Erythromycin, Azithromycin, Quinupristin, Pristinamycin IA, Virginiamycin S	FR751518
+mph(E)	100.00	885/885	100.0	1..885	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	19035..19919	Erythromycin	DQ839391
+catB9	100.00	630/630	100.0	1..630	NZ_CP012666.1 Vibrio cholerae strain ICDC-VC661 chromosome 1, complete sequence	313910..314539	Chloramphenicol	AF462019
+FloR	99.92	1215/1215	100.0	1..1215	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	40701..41915	Chloramphenicol,Florfenicol	CP136914
+catA2	96.11	642/642	100.0	1..642	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	9963..10604	Chloramphenicol	X53796
+sul1	100.00	840/840	100.0	1..840	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	24701..25540	Sulfamethoxazole	U12338
+sul2	100.00	816/816	100.0	1..816	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	44418..45233	Sulfamethoxazole	AY034138
+sul2	100.00	816/816	100.0	1..816	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	33394..34209	Sulfamethoxazole	AY034138
+tet(D)	100.00	1185/1185	100.0	1..1185	NZ_CP012668.1 Vibrio cholerae strain ICDC-VC661 plasmid unnamed, complete sequence	12216..13400	Doxycycline, Tetracycline	AF467077
+catB9	100.00	630/630	100.0	1..630	NZ_CP024163.1 Vibrio cholerae strain E7946 chromosome 2, complete sequence	313491..314120	Chloramphenicol	AF462019
+catB9	100.00	630/630	100.0	1..630	NZ_CP025937.1 Vibrio cholerae strain A1552 chromosome 2, complete sequence	313332..313961	Chloramphenicol	AF462019
+catB9	100.00	630/630	100.0	1..630	NZ_CP024868.1 Vibrio cholerae strain A1552 chromosome II, complete sequence	313982..314611	Chloramphenicol	AF462019
+catB9	100.00	630/630	100.0	1..630	NZ_CP028828.1 Vibrio cholerae strain N16961 chromosome 2, complete sequence	317618..318247	Chloramphenicol	AF462019
+catB9	100.00	630/630	100.0	1..630	NZ_CP043556.1 Vibrio cholerae strain RFB16 chromosome 2, complete sequence	955487..956116	Chloramphenicol	AF462019
+blaCARB-30	100.00	852/852	100.0	1..852	NZ_CP026042.1 Vibrio parahaemolyticus strain FDAARGOS_51 chromosome 2, complete sequence	967271..968122	Ampicillin, Amoxicillin, Piperacillin	NG_048734
+blaCARB-45	99.18	852/852	100.0	1..852	NZ_CP009983.1 Vibrio parahaemolyticus strain FORC_008 chromosome 2, complete sequence	474929..475780	Ampicillin, Amoxicillin, Piperacillin	JTGR01000061
+blaCARB-41	99.18	852/852	100.0	1..852	NZ_CP009983.1 Vibrio parahaemolyticus strain FORC_008 chromosome 2, complete sequence	474929..475780	Ampicillin, Amoxicillin, Piperacillin	BK008890
+blaCARB-33	99.18	852/852	100.0	1..852	NZ_CP009983.1 Vibrio parahaemolyticus strain FORC_008 chromosome 2, complete sequence	474929..475780	Ampicillin, Amoxicillin, Piperacillin	BK008903
+blaCARB-44	99.53	852/852	100.0	1..852	NZ_CP009766.1 Vibrio parahaemolyticus strain FORC_006 chromosome 2, complete sequence	1260050..1260901	Ampicillin, Amoxicillin, Piperacillin	JTGS01000066
+blaCARB-26	99.53	852/852	100.0	1..852	NZ_CP009848.1 Vibrio parahaemolyticus strain FORC_004 chromosome 2, complete sequence	490399..491250	Ampicillin, Amoxicillin, Piperacillin	BK008904
+blaCARB-29	99.53	852/852	100.0	1..852	NZ_CP014047.2 Vibrio parahaemolyticus strain ATCC 17802 chromosome 2, complete sequence	971635..972486	Ampicillin, Amoxicillin, Piperacillin	BK008905
+blaCARB-33	99.06	852/852	100.0	1..852	NZ_CP011407.1 Vibrio parahaemolyticus strain FORC_014 chromosome 2, complete sequence	1479390..1480241	Ampicillin, Amoxicillin, Piperacillin	BK008903
+blaCARB-41	99.18	852/852	100.0	1..852	NZ_CP011885.1 Vibrio parahaemolyticus strain MAVP-Q chromosome 2, complete sequence	1301763..1302614	Ampicillin, Amoxicillin, Piperacillin	BK008890
+blaCARB-33	99.18	852/852	100.0	1..852	NZ_CP011885.1 Vibrio parahaemolyticus strain MAVP-Q chromosome 2, complete sequence	1301763..1302614	Ampicillin, Amoxicillin, Piperacillin	BK008903
+blaCARB-29	99.18	852/852	100.0	1..852	NZ_CP011885.1 Vibrio parahaemolyticus strain MAVP-Q chromosome 2, complete sequence	1301763..1302614	Ampicillin, Amoxicillin, Piperacillin	BK008905
+aph(6)-Id	100.00	837/837	100.0	1..837	NZ_CP010883.1 Vibrio parahaemolyticus strain CHN25 chromosome 1, complete sequence	2690466..2691302	Streptomycin	M28829
+aph(3'')-Ib	100.00	804/804	100.0	1..804	NZ_CP010883.1 Vibrio parahaemolyticus strain CHN25 chromosome 1, complete sequence	2689663..2690466	Streptomycin	AF321551
+blaCARB-38	99.77	852/852	100.0	1..852	NZ_CP010884.1 Vibrio parahaemolyticus strain CHN25 chromosome 2, complete sequence	1359296..1360147	Ampicillin, Amoxicillin, Piperacillin	BK008898
+blaCARB-22	99.77	852/852	100.0	1..852	NZ_CP010884.1 Vibrio parahaemolyticus strain CHN25 chromosome 2, complete sequence	1359296..1360147	Ampicillin, Amoxicillin, Piperacillin	JYNG01000059
+sul2	100.00	816/816	100.0	1..816	NZ_CP010883.1 Vibrio parahaemolyticus strain CHN25 chromosome 1, complete sequence	2688787..2689602	Sulfamethoxazole	AY034138
+tet(59)	99.67	1203/1203	100.0	1..1203	NZ_CP010883.1 Vibrio parahaemolyticus strain CHN25 chromosome 1, complete sequence	2692675..2693877	Doxycycline, Tetracycline	KU736878
+blaCARB-38	99.53	852/852	100.0	1..852	NZ_CP012951.1 Vibrio parahaemolyticus strain FORC_023 isolate 378 chromosome 2, complete sequence	1285119..1285970	Ampicillin, Amoxicillin, Piperacillin	BK008898
+blaCARB-22	99.53	852/852	100.0	1..852	NZ_CP012951.1 Vibrio parahaemolyticus strain FORC_023 isolate 378 chromosome 2, complete sequence	1285119..1285970	Ampicillin, Amoxicillin, Piperacillin	JYNG01000059
+blaCARB-44	99.53	852/852	100.0	1..852	NZ_CP013249.1 Vibrio parahaemolyticus strain FORC_022 chromosome 2, complete sequence	462123..462974	Ampicillin, Amoxicillin, Piperacillin	JTGS01000066
+blaCARB-31	99.53	852/852	100.0	1..852	NZ_CP013249.1 Vibrio parahaemolyticus strain FORC_022 chromosome 2, complete sequence	462123..462974	Ampicillin, Amoxicillin, Piperacillin	NG_048735
+blaCARB-45	99.18	852/852	100.0	1..852	NZ_CP013827.1 Vibrio parahaemolyticus strain FORC_018 chromosome II, complete sequence	474912..475763	Ampicillin, Amoxicillin, Piperacillin	JTGR01000061
+blaCARB-41	99.18	852/852	100.0	1..852	NZ_CP013827.1 Vibrio parahaemolyticus strain FORC_018 chromosome II, complete sequence	474912..475763	Ampicillin, Amoxicillin, Piperacillin	BK008890
+blaCARB-33	99.18	852/852	100.0	1..852	NZ_CP013827.1 Vibrio parahaemolyticus strain FORC_018 chromosome II, complete sequence	474912..475763	Ampicillin, Amoxicillin, Piperacillin	BK008903
+blaCARB-26	99.30	852/852	100.0	1..852	NZ_CP043422.1 Vibrio parahaemolyticus strain MVP1 chromosome 2, complete sequence	299527..300378	Ampicillin, Amoxicillin, Piperacillin	BK008904
+tet(B)	99.92	1206/1206	100.0	1..1206	NZ_CP043421.1 Vibrio parahaemolyticus strain MVP1 chromosome 1, complete sequence	832981..834186	Doxycycline, Tetracycline, Minocycline	AP000342
+blaCARB-22	100.00	852/852	100.0	1..852	NZ_CP020428.2 Vibrio parahaemolyticus strain FDAARGOS_191 chromosome 2, complete sequence	212970..213821	Ampicillin, Amoxicillin, Piperacillin	JYNG01000059
+blaCARB-41	99.18	852/852	100.0	1..852	NZ_CP022472.1 Vibrio parahaemolyticus strain MAVP-Q chromosome 2, complete sequence	1301765..1302616	Ampicillin, Amoxicillin, Piperacillin	BK008890
+blaCARB-33	99.18	852/852	100.0	1..852	NZ_CP022472.1 Vibrio parahaemolyticus strain MAVP-Q chromosome 2, complete sequence	1301765..1302616	Ampicillin, Amoxicillin, Piperacillin	BK008903
+blaCARB-29	99.18	852/852	100.0	1..852	NZ_CP022472.1 Vibrio parahaemolyticus strain MAVP-Q chromosome 2, complete sequence	1301765..1302616	Ampicillin, Amoxicillin, Piperacillin	BK008905
+blaCARB-41	99.18	852/852	100.0	1..852	NZ_CP022553.2 Vibrio parahaemolyticus strain MAVP-R chromosome 2, complete sequence	1162690..1163541	Ampicillin, Amoxicillin, Piperacillin	BK008890
+blaCARB-33	99.18	852/852	100.0	1..852	NZ_CP022553.2 Vibrio parahaemolyticus strain MAVP-R chromosome 2, complete sequence	1162690..1163541	Ampicillin, Amoxicillin, Piperacillin	BK008903
+blaCARB-29	99.18	852/852	100.0	1..852	NZ_CP022553.2 Vibrio parahaemolyticus strain MAVP-R chromosome 2, complete sequence	1162690..1163541	Ampicillin, Amoxicillin, Piperacillin	BK008905
+blaCARB-30	100.00	852/852	100.0	1..852	NZ_CP023247.2 Vibrio parahaemolyticus strain MAVP-26 chromosome 2, complete sequence	1152551..1153402	Ampicillin, Amoxicillin, Piperacillin	NG_048734
+blaCARB-41	99.53	852/852	100.0	1..852	NZ_CP028482.1 Vibrio parahaemolyticus strain S107-1 chromosome 2, complete sequence	1684667..1685518	Ampicillin, Amoxicillin, Piperacillin	BK008890
+blaCARB-33	99.53	852/852	100.0	1..852	NZ_CP028482.1 Vibrio parahaemolyticus strain S107-1 chromosome 2, complete sequence	1684667..1685518	Ampicillin, Amoxicillin, Piperacillin	BK008903
+blaCARB-29	99.53	852/852	100.0	1..852	NZ_CP028482.1 Vibrio parahaemolyticus strain S107-1 chromosome 2, complete sequence	1684667..1685518	Ampicillin, Amoxicillin, Piperacillin	BK008905
+blaCARB-29	99.77	852/852	100.0	1..852	NZ_CP028142.1 Vibrio parahaemolyticus strain R14 chromosome 2, complete sequence	700702..701553	Ampicillin, Amoxicillin, Piperacillin	BK008905
+blaCARB-26	99.65	852/852	100.0	1..852	NZ_CP020035.1 Vibrio parahaemolyticus strain 20130629002S01 chromosome II, complete sequence	465957..466808	Ampicillin, Amoxicillin, Piperacillin	BK008904
+blaCARB-29	99.77	852/852	100.0	1..852	NZ_CP028343.1 Vibrio parahaemolyticus isolate R13 chromosome 2, complete sequence	1113475..1114326	Ampicillin, Amoxicillin, Piperacillin	BK008905
+blaCARB-24	100.00	852/852	100.0	1..852	NZ_CP022244.1 Vibrio parahaemolyticus strain PB1937 chromosome II, complete sequence	505631..506482	Ampicillin, Amoxicillin, Piperacillin	BK008907
+blaCARB-46	99.53	852/852	100.0	1..852	NZ_CP023473.1 Vibrio parahaemolyticus strain FORC_072 chromosome 2, complete sequence	1316412..1317263	Ampicillin, Amoxicillin, Piperacillin	NG_048749
+blaCARB-44	99.53	852/852	100.0	1..852	NZ_CP023473.1 Vibrio parahaemolyticus strain FORC_072 chromosome 2, complete sequence	1316412..1317263	Ampicillin, Amoxicillin, Piperacillin	JTGS01000066
+blaCARB-41	99.30	852/852	100.0	1..852	NZ_CP023486.1 Vibrio parahaemolyticus strain FORC_071 chromosome 2, complete sequence	1297184..1298035	Ampicillin, Amoxicillin, Piperacillin	BK008890
+blaCARB-33	99.30	852/852	100.0	1..852	NZ_CP023486.1 Vibrio parahaemolyticus strain FORC_071 chromosome 2, complete sequence	1297184..1298035	Ampicillin, Amoxicillin, Piperacillin	BK008903
+blaCARB-29	99.30	852/852	100.0	1..852	NZ_CP023486.1 Vibrio parahaemolyticus strain FORC_071 chromosome 2, complete sequence	1297184..1298035	Ampicillin, Amoxicillin, Piperacillin	BK008905
+blaCARB-17	100.00	852/852	100.0	1..852	NZ_CP033142.1 Vibrio parahaemolyticus strain 160807 chromosome 2, complete sequence	1328111..1328962	Ampicillin, Amoxicillin, Piperacillin	KJ934265
+tet(B)	99.92	1206/1206	100.0	1..1206	NZ_CP033141.1 Vibrio parahaemolyticus strain 160807 chromosome 1, complete sequence	3389617..3390822	Doxycycline, Tetracycline, Minocycline	AP000342
+blaCARB-22	100.00	852/852	100.0	1..852	NZ_CP031782.1 Vibrio parahaemolyticus strain VPD14 chromosome 2, complete sequence	171813..172664	Ampicillin, Amoxicillin, Piperacillin	JYNG01000059
+blaCTX-M-55	100.00	876/876	100.0	1..876	NZ_AP026554.1 Vibrio vulnificus strain VV20-8B-2 isolate homogenised shrimp plasmid pVV20-8B-2, complete sequence	289945..290820	Amoxicillin, Ampicillin, Aztreonam, Cefepime, Cefotaxime, Ceftazidime, Ceftriaxone, Piperacillin, Ticarcillin	DQ810789
+qnrS2	100.00	657/657	100.0	1..657	NZ_AP026554.1 Vibrio vulnificus strain VV20-8B-2 isolate homogenised shrimp plasmid pVV20-8B-2, complete sequence	282979..283635	Ciprofloxacin	DQ485530
+sul2	100.00	816/816	100.0	1..816	NZ_AP026552.1 Vibrio vulnificus strain VV20-8B-2 isolate homogenised shrimp chromosome 1, complete sequence	2594131..2594946	Sulfamethoxazole	AY034138
+tet(59)	99.67	1203/1203	100.0	1..1203	NZ_AP026552.1 Vibrio vulnificus strain VV20-8B-2 isolate homogenised shrimp chromosome 1, complete sequence	2600184..2601386	Doxycycline, Tetracycline	KU736878
+aph(6)-Id	100.00	837/837	100.0	1..837	NZ_CP134785.1 Vibrio vulnificus strain GCU-01 plasmid pVv_GCU-01-1, complete sequence	30327..31163	Streptomycin	M28829
+aph(3'')-Ib	100.00	804/804	100.0	1..804	NZ_CP134785.1 Vibrio vulnificus strain GCU-01 plasmid pVv_GCU-01-1, complete sequence	31163..31966	Streptomycin	AF321551
+FloR	99.84	1215/1215	100.0	1..1215	NZ_CP134785.1 Vibrio vulnificus strain GCU-01 plasmid pVv_GCU-01-1, complete sequence	25978..27192	Chloramphenicol,Florfenicol	CP136914
+sul2	100.00	816/816	100.0	1..816	NZ_CP134785.1 Vibrio vulnificus strain GCU-01 plasmid pVv_GCU-01-1, complete sequence	32027..32842	Sulfamethoxazole	AY034138
+tet(A)	100.00	1275/1275	100.0	1..1275	NZ_CP134785.1 Vibrio vulnificus strain GCU-01 plasmid pVv_GCU-01-1, complete sequence	27792..29066	Doxycycline, Tetracycline	AF534183

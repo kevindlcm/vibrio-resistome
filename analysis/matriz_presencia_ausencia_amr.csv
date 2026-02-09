@@ -1,0 +1,5 @@
+Species,aac(3)-IId,aac(3)-IIe,aadA16,aadA2,almE,almF,almG,aph(3'')-Ib,aph(3')-Ia,aph(6)-Id,arr-3,blaCARB,blaCARB-17,blaCARB-18,blaCARB-20,blaCARB-22,blaCARB-24,blaCARB-30,blaCARB-42,blaCARB-56,blaCMY-2,blaCTX-M-2,blaCTX-M-55,blaTEM-1,catA2,catB9,dfrA1,dfrA15,dfrA27,dfrA31,floR,mph(A),mph(E),msr(E),qacEdelta1,qnrS,qnrS2,qnrVC10,qnrVC5,sul1,sul2,tet(34),tet(35),tet(59),tet(A),tet(B),tet(D),varG
+V_alginolyticus,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,1,0,1,1,1,1,1,1,0,0,0,0,0
+V_cholerae,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,1,1,0,1,0,1,1,1,1,1,0,0,0,0,1,1,0,0,0,1,0,1,1
+V_parahaemolyticus,0,0,0,0,0,0,0,1,0,1,0,0,1,1,1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0
+V_vulnificus,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,1,1,0,0,0

@@ -1,0 +1,12 @@
+#FILE	SEQUENCE	START	END	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION
+quality/checkM/input/V_alginolyticus/GCF_001679745.1_ASM167974v1_genomic.fna	NZ_CP016224.1	2546219	2547035	sul2	1-817/817	===============	0/0	100.00	100.00	card	AY055428:20269-21085
+quality/checkM/input/V_alginolyticus/GCF_001679745.1_ASM167974v1_genomic.fna	NZ_CP016224.1	2547096	2547900	APH(3'')-Ib	1-805/805	===============	0/0	100.00	99.75	card	AF313472:15594-16398
+quality/checkM/input/V_alginolyticus/GCF_001679745.1_ASM167974v1_genomic.fna	NZ_CP016224.1	2547899	2548736	APH(6)-Id	1-838/838	===============	0/0	100.00	99.88	card	AF024602:3156-3993
+quality/checkM/input/V_alginolyticus/GCF_001679745.1_ASM167974v1_genomic.fna	NZ_CP016224.1	2554917	2555573	QnrVC5	1-657/657	===============	0/0	100.00	100.00	card	JN408080:1-658
+quality/checkM/input/V_alginolyticus/GCF_002953515.1_ASM295351v1_genomic.fna	NZ_CP014053.1	1668007	1668662	QnrS5	1-656/657	===============	0/0	99.85	97.10	card	HQ631377:1-658
+quality/checkM/input/V_alginolyticus/GCF_002953515.1_ASM295351v1_genomic.fna	NZ_CP014053.1	1701514	1702169	QnrS5	1-656/657	===============	0/0	99.85	97.10	card	HQ631377:1-658
+quality/checkM/input/V_alginolyticus/GCF_002953975.1_ASM295397v1_genomic.fna	NZ_CP014045.1	1364276	1364933	QnrVC6	1-658/658	===============	0/0	100.00	98.48	card	KC202804:3875-4532
+quality/checkM/input/V_alginolyticus/GCF_009763085.1_ASM976308v1_genomic.fna	NZ_CP046773.1	3282	4098	sul2	1-817/817	===============	0/0	100.00	100.00	card	AY055428:20269-21085
+quality/checkM/input/V_alginolyticus/GCF_009763085.1_ASM976308v1_genomic.fna	NZ_CP046773.1	123222	124036	APH(3')-Ia	3-817/817	===============	0/0	99.76	99.39	card	BX664015:103018-103834
+quality/checkM/input/V_alginolyticus/GCF_009763085.1_ASM976308v1_genomic.fna	NZ_CP046773.1	126014	126854	sul1	1-841/841	===============	0/0	100.00	100.00	card	JF969163:1054-1894
+quality/checkM/input/V_alginolyticus/GCF_009763085.1_ASM976308v1_genomic.fna	NZ_CP046773.1	127395	127869	dfrA15	1-475/475	===============	0/0	100.00	100.00	card	KF534911:40-514

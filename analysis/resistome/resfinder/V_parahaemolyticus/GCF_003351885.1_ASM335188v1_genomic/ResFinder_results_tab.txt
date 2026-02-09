@@ -1,0 +1,2 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+blaCARB-24	100.00	852/852	100.0	1..852	NZ_CP022244.1 Vibrio parahaemolyticus strain PB1937 chromosome II, complete sequence	505631..506482	Ampicillin, Amoxicillin, Piperacillin	BK008907

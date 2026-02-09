@@ -1,0 +1,14 @@
+# datos pesados
+data/
+databases/
+quality/
+analysis/resistome/
+analysis/*.png
+analysis/*.csv
+
+# cache
+__pycache__/
+.ipynb_checkpoints/
+
+# entorno
+vibrio_env/

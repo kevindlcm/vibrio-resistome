@@ -1,0 +1,6 @@
+Resistance gene	Identity	Alignment Length/Gene Length	Coverage	Position in reference	Contig	Position in contig	Phenotype	Accession no.
+aph(6)-Id	100.00	837/837	100.0	1..837	NZ_CP134785.1 Vibrio vulnificus strain GCU-01 plasmid pVv_GCU-01-1, complete sequence	30327..31163	Streptomycin	M28829
+aph(3'')-Ib	100.00	804/804	100.0	1..804	NZ_CP134785.1 Vibrio vulnificus strain GCU-01 plasmid pVv_GCU-01-1, complete sequence	31163..31966	Streptomycin	AF321551
+FloR	99.84	1215/1215	100.0	1..1215	NZ_CP134785.1 Vibrio vulnificus strain GCU-01 plasmid pVv_GCU-01-1, complete sequence	25978..27192	Chloramphenicol,Florfenicol	CP136914
+sul2	100.00	816/816	100.0	1..816	NZ_CP134785.1 Vibrio vulnificus strain GCU-01 plasmid pVv_GCU-01-1, complete sequence	32027..32842	Sulfamethoxazole	AY034138
+tet(A)	100.00	1275/1275	100.0	1..1275	NZ_CP134785.1 Vibrio vulnificus strain GCU-01 plasmid pVv_GCU-01-1, complete sequence	27792..29066	Doxycycline, Tetracycline	AF534183
