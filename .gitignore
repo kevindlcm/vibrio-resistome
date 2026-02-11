@@ -13,3 +13,8 @@ __pycache__/
 # entorno
 vibrio_env/
 Untitled*.ipynb
+
+databases/
+analysis/*.png
+analysis/*.tsv
+analysis/*.csv
